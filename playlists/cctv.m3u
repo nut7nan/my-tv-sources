@@ -1,0 +1,885 @@
+#EXTM3U
+#EXTINF:-1 group-title="cctv",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="cctv",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-1 (720p)
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-1 HD (1080p)
+http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-11 (720p)
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-12 (720p)
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-13 (720p)
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-13 HD (1080p)
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 group-title="cctv",CCTV-14 HD (1080p)
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-15 (720p)
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-16 HD (1080p)
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-17 HD (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-3 (720p)
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-4 America
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-4 Asia (720p)
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-4K HD (1080p)
+http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-5+ (1080p)
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+#EXTINF:-1 group-title="cctv",CCTV-6 HD (1080p)
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-6 [Geo-blocked]
+https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-7 (720p)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-8 (720p)
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-8K HD (1080p)
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 group-title="cctv",CCTV-Billiards (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Culture of Quality SD (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Golf & Tennis (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Health (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Nostalgia Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Storm Football (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Storm Music (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Storm Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-The First Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Weapon & Technology (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-Women's Fashion SD (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV-World Geography SD (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV1
+http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV1
+http://173.208.234.146/live/cctv1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV1
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV1
+http://204.12.221.218:8181/3m1080p/cctv1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV1
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV1
+http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV1
+http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=BovPet&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=DASpOl&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=GRslVT&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=M8UbAJ&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=PldLrS&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=VaAaU1&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=b3eXPo&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ol4Xj9&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=sPzAe7&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV10
+http://113.15.109.216:59901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV10
+http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV10
+http://173.208.234.146/live/cctv10.m3u8
+#EXTINF:-1 group-title="cctv",CCTV10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV10
+http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV10
+http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV10
+http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV10
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ApqQA6&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=CnWkT3&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=T960Sd&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ay9SyT&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=f6EGIo&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=pVXTcf&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=phh4M8&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=rMXAES&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=sannGl&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV10
+https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+#EXTINF:-1 group-title="cctv",CCTV11
+http://113.90.154.189:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV11
+http://124.90.45.52:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV11
+http://124.90.45.52:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV11
+http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV11
+http://183.11.239.36:808/hls/29/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV11
+http://183.129.255.66:8480/hls/12/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV11
+http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV11
+http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=4Mx71z&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=4mwask&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=LhZ7KG&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=POoalv&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Z5qUGH&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=fuKSMq&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=pKiHMB&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=qMIdN3&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV12
+http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV12
+http://124.90.45.52:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV12
+http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV12
+http://173.208.234.146/live/cctv12.m3u8
+#EXTINF:-1 group-title="cctv",CCTV12
+http://183.11.239.36:808/hls/30/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV12
+http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV12
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+#EXTINF:-1 group-title="cctv",CCTV12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=0RllDc&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=6Hpvtu&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=BPTL7D&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=KzUWhw&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UD8j7z&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=URpjqF&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=fMMDXe&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=yc8lZU&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV13
+http://116.128.243.121:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="cctv",CCTV13
+http://124.90.45.52:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV13
+http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV13
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+#EXTINF:-1 group-title="cctv",CCTV13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=0OGyQt&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=3eaJ7u&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=8D6cm9&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=RVGrOZ&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ZiNrmy&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=a62xON&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=b9W20q&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=cfGBkp&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ctTjyy&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=rWsEHS&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV13
+https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
+#EXTINF:-1 group-title="cctv",CCTV14
+http://113.90.154.189:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV14
+http://124.90.45.52:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV14
+http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV14
+http://183.11.239.36:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV14
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV14
+http://204.12.221.218:8181/3m1080p/cctv14.m3u8
+#EXTINF:-1 group-title="cctv",CCTV14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV14
+http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV14
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+#EXTINF:-1 group-title="cctv",CCTV14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=3eYTI1&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=CGoxq8&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=DZackR&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=DxuQh6&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=FJimDi&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=HgGM9k&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ox3GOu&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=XfpSLB&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV15
+http://113.90.154.189:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV15
+http://124.90.45.52:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV15
+http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV15
+http://183.11.239.36:808/hls/102/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV15
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV15
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8
+#EXTINF:-1 group-title="cctv",CCTV15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV15
+http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV15
+http://61.136.172.236:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV15
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+#EXTINF:-1 group-title="cctv",CCTV15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=5Bku41&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=975jMH&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=DN2vWY&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ETisb8&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Vy3kpu&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=igs71Z&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=uDvEKH&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://1.24.39.180:9003/hls/60/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://104.152.209.49:8181/720p/cctv16.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://183.11.239.36:808/hls/169/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://207.56.13.146:81/cdnlive/cctv16.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV16
+http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+#EXTINF:-1 group-title="cctv",CCTV16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://gmxw.7766.org:808/hls/169/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=EU5wNH&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=FLiBUu&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ur5nnx&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=WDJR2O&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=hS36LX&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV16
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+#EXTINF:-1 group-title="cctv",CCTV17
+http://113.15.109.216:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV17
+http://113.90.154.189:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV17
+http://183.11.239.36:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV17
+http://183.129.255.66:8480/hls/18/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV17
+http://218.104.239.114:9901/tsfile/live/0019_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV17
+http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV17
+http://45.192.97.170:8880/play/405.m3u8
+#EXTINF:-1 group-title="cctv",CCTV17
+http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV17
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+#EXTINF:-1 group-title="cctv",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=FikbIE&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=RNeK17&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=cHEiBj&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=eqBvbO&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=hZOdaK&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=mKG6Oi&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV17
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=uFZfdl&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV17
+http://www.cdnstv.com:6398/hls/17/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV17
+https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="cctv",CCTV17
+https://play.kankanlive.com/live/1698423272597921.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://107.150.60.122/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://119.39.9.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="cctv",CCTV2
+http://124.90.45.52:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV2
+http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV2
+http://173.208.234.146/live/cctv2.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://183.11.239.36:808/hls/20/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://192.151.150.154/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=fSEU0s&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=kMsOKh&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=l8iCee&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=qaUykc&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=sJQzul&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=uO3YKJ&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=xwqfUv&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV3
+http://112.27.5.218:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV3
+http://112.46.85.60:8009/hls/3/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV3
+http://113.15.109.216:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV3
+http://120.237.39.10:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="cctv",CCTV3
+http://183.129.255.66:8480/hls/3/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV3
+http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV3
+http://222.223.41.27:8888/hls/3/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV3
+http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV3
+http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV3
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
+#EXTINF:-1 group-title="cctv",CCTV3
+http://69.30.245.50/live/cctv3.m3u8
+#EXTINF:-1 group-title="cctv",CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=4mFBaV&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=CaQ9Sy&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ODKBWl&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=dFegbT&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=fxi4hL&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=kBy2n1&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=rt36k7&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://107.150.60.122/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://112.46.85.60:8009/hls/4/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://113.15.109.216:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV4
+http://119.39.9.8:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="cctv",CCTV4
+http://124.90.45.52:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV4
+http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV4
+http://173.208.212.130:8181/1080p/cctv4.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://183.11.239.36:808/hls/22/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV4
+http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://58.57.40.22:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=MjsnQU&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=S8SfWs&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UqeuE0&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=WdwTvm&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=b0DLyC&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=m9nAWA&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV4
+http://t.061899.xyz/tl/tl.php?id=cctv4
+#EXTINF:-1 group-title="cctv",CCTV4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1793966400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-7fdfe4ef2739bdc1cc237f077aa25103&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 group-title="cctv",CCTV4K
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1794485700-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ba61a922353e8b7e01035986cc392bad&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 group-title="cctv",CCTV5
+http://112.46.85.60:8009/hls/503/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5
+http://113.15.109.216:59901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV5
+http://113.90.154.189:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV5
+http://124.90.45.52:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV5
+http://183.11.239.36:808/hls/93/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5
+http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV5
+http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5
+http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5
+http://61.136.172.236:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=1A4eT4&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=7saWCa&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Gd7JGa&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=WCkN7r&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=rXZ2Ua&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=un8Qbv&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=zMqirA&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://116.52.173.39:1234/641886773
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://183.129.255.66:8480/hls/6/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://45.192.97.170:8880/play/6.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://74.91.26.218:82/live/cctv5p.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=0msREY&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=9O5jfh&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=OWbZsv&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UHwStw&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UUAF8s&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=hWGyoN&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV5+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+#EXTINF:-1 group-title="cctv",CCTV6
+http://113.90.154.189:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV6
+http://124.90.45.52:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV6
+http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV6
+http://173.208.234.146/live/cctv6.m3u8
+#EXTINF:-1 group-title="cctv",CCTV6
+http://183.11.239.36:808/hls/94/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV6
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV6
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1 group-title="cctv",CCTV6
+http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV6
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+#EXTINF:-1 group-title="cctv",CCTV6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="cctv",CCTV6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=EVXXqj&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Krvt15&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=OBjTQM&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=TNm461&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=gJZdKc&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=jDsfYP&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=nOyqEK&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV6
+https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1 group-title="cctv",CCTV7
+http://107.150.60.122/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV7
+http://124.90.45.52:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV7
+http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV7
+http://183.11.239.36:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV7
+http://221.226.51.220:50081/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="cctv",CCTV7
+http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV7
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+#EXTINF:-1 group-title="cctv",CCTV7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV7
+http://8.138.7.223/tv/cctv7.m3u8
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=79zmv5&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=8Deu2V&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=AtyFM3&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=IxfPG7&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Nyd4Tu&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Ydh47G&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=ZBnhzm&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=is7Yts&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=m9ZlCH&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=wbdmyk&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://112.46.85.60:8009/hls/8/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://113.15.109.216:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV8
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV8
+http://124.90.45.52:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV8
+http://173.208.234.146/live/cctv8.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://183.11.239.36:808/hls/96/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://61.136.172.236:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
+#EXTINF:-1 group-title="cctv",CCTV8
+http://69.30.245.50/live/cctv8.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=7aJTX8&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=7mQsA2&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=7mjYjo&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=CQPTro&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=RaUW6p&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=SAvka7&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=c7lPNA&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV8K
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 group-title="cctv",CCTV9
+http://113.15.109.216:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV9
+http://119.39.9.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="cctv",CCTV9
+http://124.90.45.52:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV9
+http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="cctv",CCTV9
+http://183.11.239.36:808/hls/27/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV9
+http://192.151.150.154/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV9
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV9
+http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="cctv",CCTV9
+http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV9
+http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="cctv",CCTV9
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
+#EXTINF:-1 group-title="cctv",CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="cctv",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=2MGlHi&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=HIR7zL&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=JO2JF1&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=Pm8WZb&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=UZcVHL&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=WVQx9q&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=tttt&id=lLBdRL&tk=FgM0vQMejxvG
+#EXTINF:-1 group-title="cctv",CCTV9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV世界地理
+http://120.76.248.139/live/bfgd/4200000177.m3u8
+#EXTINF:-1 group-title="cctv",CCTV世界地理
+http://207.56.13.146:81/cdnlive/sjdl.m3u8
+#EXTINF:-1 group-title="cctv",CCTV世界地理
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+#EXTINF:-1 group-title="cctv",CCTV世界地理
+http://dassby.qqff.top:99/live/世界地理/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV兵器科技
+http://204.12.221.218:8181/3m1080p/gfjs.m3u8
+#EXTINF:-1 group-title="cctv",CCTV卫生健康
+http://207.56.13.146:81/cdnlive/wsjk.m3u8
+#EXTINF:-1 group-title="cctv",CCTV卫生健康
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wsjk
+#EXTINF:-1 group-title="cctv",CCTV发现之旅
+http://38.75.136.137:98/gslb/dsdqpub/fxzl.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV发现之旅
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fxzl
+#EXTINF:-1 group-title="cctv",CCTV央视台球
+http://207.56.13.146:81/cdnlive/ystq.m3u8
+#EXTINF:-1 group-title="cctv",CCTV央视台球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
+#EXTINF:-1 group-title="cctv",CCTV央视台球
+http://dassby.qqff.top:99/live/央视台球/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV央视台球
+https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+#EXTINF:-1 group-title="cctv",CCTV央视台球
+https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+#EXTINF:-1 group-title="cctv",CCTV央视文化精品
+http://207.56.13.146:81/cdnlive/ysjp.m3u8
+#EXTINF:-1 group-title="cctv",CCTV央视文化精品
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
+#EXTINF:-1 group-title="cctv",CCTV央视文化精品
+https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="cctv",CCTV女性时尚
+http://120.76.248.139/live/bfgd/4200000176.m3u8
+#EXTINF:-1 group-title="cctv",CCTV女性时尚
+http://207.56.13.146:81/cdnlive/nxss.m3u8
+#EXTINF:-1 group-title="cctv",CCTV女性时尚
+http://dassby.qqff.top:99/live/女性时尚/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV怀旧剧场
+http://120.76.248.139/live/bfgd/4200000224.m3u8
+#EXTINF:-1 group-title="cctv",CCTV怀旧剧场
+http://207.56.13.146:81/cdnlive/hjjc.m3u8
+#EXTINF:-1 group-title="cctv",CCTV怀旧剧场
+http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV怀旧剧场
+https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="cctv",CCTV电视指南
+http://120.76.248.139/live/bfgd/4200000164.m3u8
+#EXTINF:-1 group-title="cctv",CCTV电视指南
+http://204.12.221.218:8181/3m1080p/dszn.m3u8
+#EXTINF:-1 group-title="cctv",CCTV第一剧场
+http://207.56.13.146:81/cdnlive/dyjc.m3u8
+#EXTINF:-1 group-title="cctv",CCTV第一剧场
+http://dassby.qqff.top:99/live/第一剧场/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV第一剧场
+https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="cctv",CCTV第一剧场
+https://live.264788.xyz/channel/diyijuchang?streamid=e9b0fb1ca135a4aeae12944494883794&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="cctv",CCTV老故事
+http://204.12.221.218:8181/3m1080p/lgs.m3u8
+#EXTINF:-1 group-title="cctv",CCTV老故事
+http://38.75.136.137:98/gslb/dsdqpub/lgs.m3u8?auth=testpub
+#EXTINF:-1 group-title="cctv",CCTV老故事
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lgs
+#EXTINF:-1 group-title="cctv",CCTV风云剧场
+http://207.56.13.146:81/cdnlive/fyjc.m3u8
+#EXTINF:-1 group-title="cctv",CCTV风云剧场
+http://dassby.qqff.top:99/live/风云剧场/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV风云足球
+http://120.76.248.139/live/bfgd/4200000225.m3u8
+#EXTINF:-1 group-title="cctv",CCTV风云足球
+http://207.56.13.146:81/cdnlive/fyzq.m3u8
+#EXTINF:-1 group-title="cctv",CCTV风云足球
+http://dassby.qqff.top:99/live/风云足球/index.m3u8
+#EXTINF:-1 group-title="cctv",CCTV风云足球
+https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+#EXTINF:-1 group-title="cctv",CCTV风云音乐
+http://dassby.qqff.top:99/live/风云音乐/index.m3u8
+#EXTINF:-1 group-title="cctv",Red CCTV (480p)
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8

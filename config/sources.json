@@ -1,1 +1,18 @@
-{"sources":[],"note":"Only enable sources with verified playlist and stream redistribution rights. jiandantv/IPTV2026 and iptv-org/iptv remain optional, unverified."}
+{
+  "initialized": true,
+  "purpose": "Noncommercial playlist-link aggregation only; no video hosting or retransmission",
+  "sources": [
+    {
+      "name": "jiandantv/IPTV2026",
+      "url": "https://raw.githubusercontent.com/jiandantv/IPTV2026/main/live.m3u",
+      "enabled": true,
+      "rights_status": "unverified; respect upstream noncommercial restriction"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "enabled": true,
+      "rights_status": "Unlicense for repository; broadcast content rights not certified"
+    }
+  ]
+}
