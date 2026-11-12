@@ -17,79 +17,92 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Initialize configuration
-        run: |
-          mkdir -p config playlists reports
-          if [ ! -f config/sources.json ]; then
-            echo '{"sources":[],"note":"Only enable sources with verified playlist and stream redistribution rights. jiandantv/IPTV2026 and iptv-org/iptv remain optional, unverified."}' > config/sources.json
-          fi
-      - name: Collect and classify
-        id: collect
-        continue-on-error: true
+      - name: Merge public playlist links
         shell: python
         run: |
-          import json, re, urllib.request, concurrent.futures
+          import json, re, urllib.request, concurrent.futures, hashlib, sys
           from pathlib import Path
           from datetime import datetime, timezone
-          report = {"time": datetime.now(timezone.utc).isoformat(), "status":"retained"}
-          groups = ["cctv", "satellite", "local", "kids", "international"]
-          def fetch(url, limit, timeout):
-              with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent":"my-tv-sources/1.0"}), timeout=timeout) as r:
+          for folder in ['config','playlists','reports']: Path(folder).mkdir(exist_ok=True)
+          config_path=Path('config/sources.json')
+          config=json.loads(config_path.read_text()) if config_path.exists() else {}
+          if not config.get('sources') and not config.get('initialized'):
+              config={'initialized':True,'purpose':'Noncommercial playlist-link aggregation only; no video hosting or retransmission','sources':[
+                  {'name':'jiandantv/IPTV2026','url':'https://raw.githubusercontent.com/jiandantv/IPTV2026/main/live.m3u','enabled':True,'rights_status':'unverified; respect upstream noncommercial restriction'},
+                  {'name':'iptv-org/iptv','url':'https://iptv-org.github.io/iptv/index.m3u','enabled':True,'rights_status':'Unlicense for repository; broadcast content rights not certified'}]}
+              config_path.write_text(json.dumps(config,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          report={'time':datetime.now(timezone.utc).isoformat(),'status':'retained','sources':[]}
+          groups=['cctv','satellite','local','kids','international']
+          def fetch(url,limit=12000001,timeout=15):
+              with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'my-tv-sources/1.0'}),timeout=timeout) as r:
                   return r.read(limit)
           def classify(name):
-              if re.search("CCTV|央视",name,re.I): return "cctv"
-              if re.search("少儿|动漫|卡通|kids|cartoon",name,re.I): return "kids"
-              if "卫视" in name: return "satellite"
-              if re.search("[一-龥]",name): return "local"
-              return "international"
-          def probe(entry):
-              try: return bool(fetch(entry[1],512,5))
+              if re.search('CCTV|央视',name,re.I): return 'cctv'
+              if re.search('少儿|动漫|卡通|动画|kids|cartoon',name,re.I): return 'kids'
+              if '卫视' in name: return 'satellite'
+              if re.search('[一-龥]',name): return 'local'
+              return 'international'
+          def probe(item):
+              try: return bool(fetch(item[1],512,5))
               except Exception: return False
+          failed=False
           try:
-              sources = [s for s in json.loads(Path("config/sources.json").read_text())["sources"] if s.get("enabled")]
-              if not sources: raise ValueError("No rights-verified sources enabled; previous playlists retained")
-              entries = {}
+              sources=[s for s in config.get('sources',[]) if s.get('enabled')]
+              if not sources: raise ValueError('No enabled sources; previous playlists retained')
+              entries={}; hashes={}
               for source in sources:
-                  if source.get("redistribution_confirmed") is not True or not source.get("rights_evidence"):
-                      raise ValueError("Missing redistribution evidence")
-                  body = fetch(source["url"],4000001,8)
-                  if len(body)>4000000: raise ValueError("Playlist exceeds 4MB")
-                  lines=body.decode("utf-8-sig").splitlines()
-                  if not lines or not lines[0].startswith("#EXTM3U"): raise ValueError("Invalid M3U header")
-                  pending=None
-                  count=0
+                  body=fetch(source['url'])
+                  if len(body)>12000000: raise ValueError('Playlist exceeds 12MB')
+                  hashes[source['url']]=hashlib.sha256(body).hexdigest()
+                  lines=body.decode('utf-8-sig').splitlines()
+                  if not lines or not lines[0].startswith('#EXTM3U'): raise ValueError('Invalid M3U: '+source['name'])
+                  pending=None; count=0
                   for line in lines[1:]:
                       line=line.strip()
-                      if line.startswith("#EXTINF:"): pending=line
-                      elif line and not line.startswith("#"):
-                          if pending and "," in pending and re.fullmatch(r"https?://[^\s]+",line):
-                              name=pending.rsplit(",",1)[1].strip()
+                      if line.startswith('#EXTINF:'): pending=line
+                      elif line and not line.startswith('#'):
+                          if pending and ',' in pending and re.fullmatch(r'https?://[^\s]+',line):
+                              name=pending.rsplit(',',1)[1].strip()
                               if name:
-                                  entries[(re.sub(r"\s+","",name).casefold(),line)]=(name,line)
+                                  entries[(re.sub(r'\s+','',name).casefold(),line)]=(name,line)
                                   count+=1
                           pending=None
-                  if not count: raise ValueError("Empty source; previous version retained")
-              items=sorted(entries.values())
-              with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
-                  states=list(pool.map(probe,items))
-              report.update(total=len(items),reachable=sum(states),uncertain=len(items)-sum(states))
-              if not any(states): raise ValueError("All probes uncertain; previous version retained")
-              for key in ["all"]+groups:
-                  selected=[(n,u) for n,u in items if key=="all" or classify(n)==key]
-                  content="#EXTM3U\n"+"".join('#EXTINF:-1 group-title="'+classify(n)+'",'+n+'\n'+u+'\n' for n,u in selected)
-                  Path("playlists/"+key+".m3u").write_text(content,encoding="utf-8")
-              report["status"]="published"
+                  report['sources'].append({'name':source['name'],'url':source['url'],'parsed':count,'sha256':hashes[source['url']]})
+                  if not count: raise ValueError('Empty source: '+source['name'])
+              state_path=Path('reports/source-state.json')
+              old=json.loads(state_path.read_text()) if state_path.exists() else {}
+              paths=[Path('playlists/'+k+'.m3u') for k in ['all']+groups]
+              if old==hashes and all(p.exists() for p in paths):
+                  report['status']='unchanged'
+              else:
+                  items=sorted(entries.values())
+                  # Bounded sample, not a full scan of thousands of streams.
+                  sample=items[::max(1,len(items)//64)][:64]
+                  with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
+                      results=list(pool.map(probe,sample))
+                  report.update(total=len(items),checked=len(sample),reachable=sum(results),uncertain=len(results)-sum(results),unchecked=len(items)-len(sample))
+                  if not any(results): raise ValueError('All sampled probes uncertain; previous playlists retained')
+                  rendered={}
+                  for key in ['all']+groups:
+                      selected=[(n,u) for n,u in items if key=='all' or classify(n)==key]
+                      rendered[key]='#EXTM3U\n'+''.join('#EXTINF:-1 group-title="'+classify(n)+'",'+n+'\n'+u+'\n' for n,u in selected)
+                  for key,content in rendered.items(): Path('playlists/'+key+'.m3u').write_text(content,encoding='utf-8')
+                  state_path.write_text(json.dumps(hashes,indent=2)+'\n')
+                  report['status']='published'
           except Exception as error:
-              report["reason"]=str(error)
-          Path("reports/latest.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-          print(json.dumps(report))
-      - name: Publish
+              report['reason']=str(error); failed=True
+          Path('reports/latest.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(report,ensure_ascii=False))
+          with open('reports/outcome.txt','w') as f: f.write('failure' if failed else 'success')
+      - name: Publish playlists and report
         run: |
           cat reports/latest.json >> "$GITHUB_STEP_SUMMARY"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add config playlists reports
+          git add config playlists reports/latest.json
+          if [ -f reports/source-state.json ]; then git add reports/source-state.json; fi
           if ! git diff --cached --quiet; then
-            git commit -m 'Update IPTV report and playlists [skip ci]'
+            git commit -m 'Update merged IPTV links [skip ci]'
             git push
           fi
+          test "$(cat reports/outcome.txt)" = success
