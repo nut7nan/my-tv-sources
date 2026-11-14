@@ -1,23 +1,47 @@
 {
-  "time": "2026-11-14T02:30:50.738802+00:00",
+  "time": "2026-11-14T10:55:04.461966+00:00",
   "status": "published",
   "sources": [
     {
       "name": "jiandantv/IPTV2026",
-      "url": "https://raw.githubusercontent.com/jiandantv/IPTV2026/main/live.m3u",
       "parsed": 2182,
       "sha256": "08bcd7c6ba8e4a95ab19000b68b2ae6d4822beb13b31e23acde401526a6a90b5"
     },
     {
       "name": "iptv-org/iptv",
-      "url": "https://iptv-org.github.io/iptv/index.m3u",
       "parsed": 11457,
       "sha256": "61b6d53a880baca5bd356a01b09203abde2786d65516b3186919bb04682ea020"
+    },
+    {
+      "name": "iptv-org sports",
+      "parsed": 512,
+      "sha256": "12e63de3ce40dee522a4962a3c5a0bc66f3d20604abc3383ed300bc128a9f9c4"
+    },
+    {
+      "name": "iptv-org United States",
+      "parsed": 1494,
+      "sha256": "f616f557d987736ac3f91189bd38f350d4fc79064e387d85dc3c0c97e660f6ff"
+    },
+    {
+      "name": "DuckKota online",
+      "parsed": 8600,
+      "sha256": "4738e9ffc711e71a7696cb1b82be6d5eb11abbbf9d65d5413fc96a8ad4d58d22"
     }
   ],
-  "total": 13604,
+  "total": 17592,
   "checked": 64,
-  "reachable": 45,
-  "uncertain": 19,
-  "unchecked": 13540
+  "reachable": 50,
+  "uncertain": 14,
+  "unchecked": 17528,
+  "categories": {
+    "all": 17592,
+    "cctv": 443,
+    "satellite": 740,
+    "local": 938,
+    "kids": 169,
+    "international": 15302,
+    "sports": 715,
+    "us": 2704,
+    "duckkota": 8600
+  }
 }

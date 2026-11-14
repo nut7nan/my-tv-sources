@@ -13,6 +13,34 @@
       "url": "https://iptv-org.github.io/iptv/index.m3u",
       "enabled": true,
       "rights_status": "Unlicense for repository; broadcast content rights not certified"
+    },
+    {
+      "name": "iptv-org sports",
+      "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+      "tags": [
+        "sports"
+      ],
+      "enabled": true,
+      "rights_status": "Public link indexing; stream rights not certified"
+    },
+    {
+      "name": "iptv-org United States",
+      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+      "tags": [
+        "us"
+      ],
+      "enabled": true,
+      "rights_status": "Public link indexing; stream rights not certified"
+    },
+    {
+      "name": "DuckKota online",
+      "url": "https://DuckKota.github.io/iptv/playlists/online.m3u",
+      "tags": [
+        "duckkota"
+      ],
+      "enabled": true,
+      "rights_status": "Public link indexing; stream rights not certified"
     }
-  ]
+  ],
+  "schema_version": 2
 }
