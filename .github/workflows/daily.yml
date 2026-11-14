@@ -17,25 +17,29 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Merge public playlist links
+      - name: Merge and classify public links
         shell: python
         run: |
-          import json, re, urllib.request, concurrent.futures, hashlib, sys
+          import json, re, urllib.request, concurrent.futures, hashlib
           from pathlib import Path
           from datetime import datetime, timezone
-          for folder in ['config','playlists','reports']: Path(folder).mkdir(exist_ok=True)
-          config_path=Path('config/sources.json')
-          config=json.loads(config_path.read_text()) if config_path.exists() else {}
-          if not config.get('sources') and not config.get('initialized'):
-              config={'initialized':True,'purpose':'Noncommercial playlist-link aggregation only; no video hosting or retransmission','sources':[
-                  {'name':'jiandantv/IPTV2026','url':'https://raw.githubusercontent.com/jiandantv/IPTV2026/main/live.m3u','enabled':True,'rights_status':'unverified; respect upstream noncommercial restriction'},
-                  {'name':'iptv-org/iptv','url':'https://iptv-org.github.io/iptv/index.m3u','enabled':True,'rights_status':'Unlicense for repository; broadcast content rights not certified'}]}
-              config_path.write_text(json.dumps(config,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          for d in ['config','playlists','reports']: Path(d).mkdir(exist_ok=True)
+          cp=Path('config/sources.json')
+          config=json.loads(cp.read_text(encoding='utf-8'))
+          additions=[
+              {'name':'iptv-org sports','url':'https://iptv-org.github.io/iptv/categories/sports.m3u','tags':['sports']},
+              {'name':'iptv-org United States','url':'https://iptv-org.github.io/iptv/countries/us.m3u','tags':['us']},
+              {'name':'DuckKota online','url':'https://DuckKota.github.io/iptv/playlists/online.m3u','tags':['duckkota']}]
+          if config.get('schema_version',0)<2:
+              for s in additions:
+                  if not any(x['url']==s['url'] for x in config['sources']):
+                      config['sources'].append(dict(s,enabled=True,rights_status='Public link indexing; stream rights not certified'))
+              config['schema_version']=2
+              cp.write_text(json.dumps(config,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          groups=['cctv','satellite','local','kids','international','sports','us','duckkota']
           report={'time':datetime.now(timezone.utc).isoformat(),'status':'retained','sources':[]}
-          groups=['cctv','satellite','local','kids','international']
           def fetch(url,limit=12000001,timeout=15):
-              with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'my-tv-sources/1.0'}),timeout=timeout) as r:
-                  return r.read(limit)
+              with urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'my-tv-sources/2.0'}),timeout=timeout) as r: return r.read(limit)
           def classify(name):
               if re.search('CCTV|央视',name,re.I): return 'cctv'
               if re.search('少儿|动漫|卡通|动画|kids|cartoon',name,re.I): return 'kids'
@@ -43,16 +47,16 @@ jobs:
               if re.search('[一-龥]',name): return 'local'
               return 'international'
           def probe(item):
-              try: return bool(fetch(item[1],512,5))
+              try: return bool(fetch(item['url'],512,5))
               except Exception: return False
           failed=False
           try:
-              sources=[s for s in config.get('sources',[]) if s.get('enabled')]
-              if not sources: raise ValueError('No enabled sources; previous playlists retained')
-              entries={}; hashes={}
+              sources=[s for s in config['sources'] if s.get('enabled')]
+              if not sources: raise ValueError('No enabled sources')
+              entries={}; hashes={'schema':'2','config':hashlib.sha256(json.dumps(sources,sort_keys=True).encode()).hexdigest()}
               for source in sources:
                   body=fetch(source['url'])
-                  if len(body)>12000000: raise ValueError('Playlist exceeds 12MB')
+                  if len(body)>12000000: raise ValueError('Playlist exceeds 12MB: '+source['name'])
                   hashes[source['url']]=hashlib.sha256(body).hexdigest()
                   lines=body.decode('utf-8-sig').splitlines()
                   if not lines or not lines[0].startswith('#EXTM3U'): raise ValueError('Invalid M3U: '+source['name'])
@@ -64,36 +68,42 @@ jobs:
                           if pending and ',' in pending and re.fullmatch(r'https?://[^\s]+',line):
                               name=pending.rsplit(',',1)[1].strip()
                               if name:
-                                  entries[(re.sub(r'\s+','',name).casefold(),line)]=(name,line)
+                                  key=(re.sub(r'\s+','',name).casefold(),line)
+                                  e=entries.setdefault(key,{'name':name,'url':line,'tags':set()})
+                                  e['tags'].update(source.get('tags',[]))
+                                  if re.search('sports|体育|體育',pending,re.I): e['tags'].add('sports')
+                                  if re.search(r'tvg-id="[^" ]+\.us(?:@[^" ]*)?"',pending,re.I): e['tags'].add('us')
                                   count+=1
                           pending=None
-                  report['sources'].append({'name':source['name'],'url':source['url'],'parsed':count,'sha256':hashes[source['url']]})
+                  report['sources'].append({'name':source['name'],'parsed':count,'sha256':hashes[source['url']]})
                   if not count: raise ValueError('Empty source: '+source['name'])
-              state_path=Path('reports/source-state.json')
-              old=json.loads(state_path.read_text()) if state_path.exists() else {}
-              paths=[Path('playlists/'+k+'.m3u') for k in ['all']+groups]
-              if old==hashes and all(p.exists() for p in paths):
+              sp=Path('reports/source-state.json')
+              old=json.loads(sp.read_text()) if sp.exists() else {}
+              if old==hashes and all(Path('playlists/'+k+'.m3u').exists() for k in ['all']+groups):
                   report['status']='unchanged'
               else:
-                  items=sorted(entries.values())
-                  # Bounded sample, not a full scan of thousands of streams.
+                  items=sorted(entries.values(),key=lambda e:(e['name'],e['url']))
                   sample=items[::max(1,len(items)//64)][:64]
-                  with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:
-                      results=list(pool.map(probe,sample))
+                  with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool: results=list(pool.map(probe,sample))
                   report.update(total=len(items),checked=len(sample),reachable=sum(results),uncertain=len(results)-sum(results),unchecked=len(items)-len(sample))
-                  if not any(results): raise ValueError('All sampled probes uncertain; previous playlists retained')
-                  rendered={}
+                  if not any(results): raise ValueError('All sampled probes uncertain; retaining old version')
+                  labels={'cctv':'央视','satellite':'卫视','local':'地方','kids':'少儿动漫','international':'国际','sports':'体育','us':'美国','duckkota':'DuckKota在线'}
+                  rendered={}; counts={}
                   for key in ['all']+groups:
-                      selected=[(n,u) for n,u in items if key=='all' or classify(n)==key]
-                      rendered[key]='#EXTM3U\n'+''.join('#EXTINF:-1 group-title="'+classify(n)+'",'+n+'\n'+u+'\n' for n,u in selected)
-                  for key,content in rendered.items(): Path('playlists/'+key+'.m3u').write_text(content,encoding='utf-8')
-                  state_path.write_text(json.dumps(hashes,indent=2)+'\n')
-                  report['status']='published'
+                      selected=[e for e in items if key=='all' or (key in e['tags'] if key in ['sports','us','duckkota'] else classify(e['name'])==key)]
+                      counts[key]=len(selected)
+                      def label(e):
+                          k=key if key!='all' else ('sports' if 'sports' in e['tags'] else 'us' if 'us' in e['tags'] else classify(e['name']))
+                          return labels[k]
+                      rendered[key]='#EXTM3U\n'+''.join('#EXTINF:-1 group-title="'+label(e)+'",'+e['name']+'\n'+e['url']+'\n' for e in selected)
+                  for key,text in rendered.items(): Path('playlists/'+key+'.m3u').write_text(text,encoding='utf-8')
+                  sp.write_text(json.dumps(hashes,indent=2)+'\n')
+                  report.update(status='published',categories=counts)
           except Exception as error:
               report['reason']=str(error); failed=True
           Path('reports/latest.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          Path('reports/outcome.txt').write_text('failure' if failed else 'success')
           print(json.dumps(report,ensure_ascii=False))
-          with open('reports/outcome.txt','w') as f: f.write('failure' if failed else 'success')
       - name: Publish playlists and report
         run: |
           cat reports/latest.json >> "$GITHUB_STEP_SUMMARY"
