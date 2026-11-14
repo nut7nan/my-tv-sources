@@ -1,23 +1,23 @@
 {
-  "time": "2026-11-13T02:42:10.195639+00:00",
+  "time": "2026-11-14T02:30:50.738802+00:00",
   "status": "published",
   "sources": [
     {
       "name": "jiandantv/IPTV2026",
       "url": "https://raw.githubusercontent.com/jiandantv/IPTV2026/main/live.m3u",
-      "parsed": 2156,
-      "sha256": "b255794b3c604e525be5d5dde91e36ae50053754b7410e8f1e02734e501ff67a"
+      "parsed": 2182,
+      "sha256": "08bcd7c6ba8e4a95ab19000b68b2ae6d4822beb13b31e23acde401526a6a90b5"
     },
     {
       "name": "iptv-org/iptv",
       "url": "https://iptv-org.github.io/iptv/index.m3u",
-      "parsed": 11449,
-      "sha256": "691111ee9c77f3861e8d3a47beec27c50e5c358c8443c1f714e3c2c98ba108cf"
+      "parsed": 11457,
+      "sha256": "61b6d53a880baca5bd356a01b09203abde2786d65516b3186919bb04682ea020"
     }
   ],
-  "total": 13569,
+  "total": 13604,
   "checked": 64,
   "reachable": 45,
   "uncertain": 19,
-  "unchecked": 13505
+  "unchecked": 13540
 }
