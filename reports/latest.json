@@ -1,16 +1,16 @@
 {
-  "time": "2026-11-22T02:22:15.216652+00:00",
+  "time": "2026-11-23T02:54:49.399982+00:00",
   "status": "published",
   "policy": "dsj-all-other-sources-channel-list-five-categories",
   "sources": [
     {
       "source": "CCSH/IPTV / live.m3u",
       "scope": "channel-list",
-      "entries": 4588,
-      "added": 1936,
+      "entries": 4559,
+      "added": 1937,
       "duplicates": 46,
       "invalid": 32,
-      "filtered": 2606
+      "filtered": 2576
     },
     {
       "source": "User IPv4 supplement / supplemental.m3u",
@@ -96,7 +96,7 @@
   ],
   "total_channels": 1545,
   "new_channels": 1410,
-  "total_lines": 4870,
+  "total_lines": 4871,
   "categories": {
     "cctv": {
       "channels": 35,
@@ -104,7 +104,7 @@
     },
     "local": {
       "channels": 68,
-      "lines": 1486
+      "lines": 1487
     },
     "hmt": {
       "channels": 17,
