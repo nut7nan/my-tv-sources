@@ -1,16 +1,16 @@
 {
-  "time": "2026-11-23T02:54:49.399982+00:00",
+  "time": "2026-11-24T06:10:17.981268+00:00",
   "status": "published",
   "policy": "dsj-all-other-sources-channel-list-five-categories",
   "sources": [
     {
       "source": "CCSH/IPTV / live.m3u",
       "scope": "channel-list",
-      "entries": 4559,
-      "added": 1937,
-      "duplicates": 46,
+      "entries": 4858,
+      "added": 1998,
+      "duplicates": 47,
       "invalid": 32,
-      "filtered": 2576
+      "filtered": 2813
     },
     {
       "source": "User IPv4 supplement / supplemental.m3u",
@@ -33,11 +33,11 @@
     {
       "source": "Best-fan IPTV / cn_all_status.m3u8",
       "scope": "channel-list",
-      "entries": 254,
-      "added": 155,
-      "duplicates": 99,
+      "entries": 296,
+      "added": 234,
+      "duplicates": 57,
       "invalid": 0,
-      "filtered": 0
+      "filtered": 5
     },
     {
       "source": "bang359/dsj / dsj.txt",
@@ -51,18 +51,18 @@
     {
       "source": "bang359/dsj / dsjcs.txt",
       "scope": "all",
-      "entries": 1261,
-      "added": 1148,
-      "duplicates": 113,
+      "entries": 1260,
+      "added": 1175,
+      "duplicates": 85,
       "invalid": 3,
       "filtered": 0
     },
     {
       "source": "bang359/dsj / dsjcs1.txt",
       "scope": "all",
-      "entries": 1281,
-      "added": 40,
-      "duplicates": 1241,
+      "entries": 1315,
+      "added": 93,
+      "duplicates": 1222,
       "invalid": 3,
       "filtered": 0
     },
@@ -79,8 +79,8 @@
       "source": "bang359/dsj / ku9.txt",
       "scope": "all",
       "entries": 709,
-      "added": 705,
-      "duplicates": 4,
+      "added": 706,
+      "duplicates": 3,
       "invalid": 113,
       "filtered": 0
     },
@@ -88,35 +88,35 @@
       "source": "bang359/dsj / yc.txt",
       "scope": "all",
       "entries": 643,
-      "added": 218,
-      "duplicates": 425,
+      "added": 221,
+      "duplicates": 422,
       "invalid": 2,
       "filtered": 0
     }
   ],
-  "total_channels": 1545,
-  "new_channels": 1410,
-  "total_lines": 4871,
+  "total_channels": 1562,
+  "new_channels": 1427,
+  "total_lines": 5095,
   "categories": {
     "cctv": {
       "channels": 35,
-      "lines": 991
+      "lines": 1024
     },
     "local": {
       "channels": 68,
-      "lines": 1487
+      "lines": 1579
     },
     "hmt": {
       "channels": 17,
-      "lines": 240
+      "lines": 264
     },
     "international": {
       "channels": 115,
       "lines": 134
     },
     "other": {
-      "channels": 1310,
-      "lines": 2019
+      "channels": 1327,
+      "lines": 2094
     }
   }
 }
