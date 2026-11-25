@@ -1,16 +1,16 @@
 {
-  "time": "2026-11-24T06:10:17.981268+00:00",
+  "time": "2026-11-25T04:57:06.678190+00:00",
   "status": "published",
   "policy": "dsj-all-other-sources-channel-list-five-categories",
   "sources": [
     {
       "source": "CCSH/IPTV / live.m3u",
       "scope": "channel-list",
-      "entries": 4858,
-      "added": 1998,
+      "entries": 4883,
+      "added": 2007,
       "duplicates": 47,
       "invalid": 32,
-      "filtered": 2813
+      "filtered": 2829
     },
     {
       "source": "User IPv4 supplement / supplemental.m3u",
@@ -25,8 +25,8 @@
       "source": "Guovin IPv4 / ipv4.m3u",
       "scope": "channel-list",
       "entries": 277,
-      "added": 29,
-      "duplicates": 173,
+      "added": 28,
+      "duplicates": 174,
       "invalid": 0,
       "filtered": 75
     },
@@ -61,8 +61,8 @@
       "source": "bang359/dsj / dsjcs1.txt",
       "scope": "all",
       "entries": 1315,
-      "added": 93,
-      "duplicates": 1222,
+      "added": 95,
+      "duplicates": 1220,
       "invalid": 3,
       "filtered": 0
     },
@@ -96,15 +96,15 @@
   ],
   "total_channels": 1562,
   "new_channels": 1427,
-  "total_lines": 5095,
+  "total_lines": 5105,
   "categories": {
     "cctv": {
       "channels": 35,
-      "lines": 1024
+      "lines": 1033
     },
     "local": {
       "channels": 68,
-      "lines": 1579
+      "lines": 1580
     },
     "hmt": {
       "channels": 17,

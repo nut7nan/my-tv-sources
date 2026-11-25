@@ -140,6 +140,8 @@ http://gslbserv.itv.cmvideo.cn:80/8258663409451267714/1.m3u8?channel-id=ystenliv
 #EXTINF:-1 group-title="地方台",北京卫视
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000173
 #EXTINF:-1 group-title="地方台",北京卫视
+http://hbhyjq.ufyct.com:1088/hls/37/index.m3u8
+#EXTINF:-1 group-title="地方台",北京卫视
 http://fn.wsk-net.online:6008/relay/ysp-bjws.m3u8
 #EXTINF:-1 group-title="地方台",北京卫视
 http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600002309
@@ -160,9 +162,9 @@ http://121.199.48.54/live1/jsbv2b.m3u8?id=shdsjhd&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="东方影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方影视.png" group-title="地方台",东方影视
 http://110.40.170.5:8890/diai/live_iptv.php?id=55&token=sfjfd78tfk
 #EXTINF:-1  tvg-name="东方影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方影视.png" group-title="地方台",东方影视
-http://121.199.48.54/live1/jsbv2b.m3u8?id=shdsjhd&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=shdsjhd&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="东方影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方影视.png" group-title="地方台",东方影视
-http://121.199.48.54/live1/jsbv1.m3u8?id=shdsjhd&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=shdsjhd&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="东方影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东方影视.png" group-title="地方台",东方影视
 http://8.138.7.223/tv/migu3.php?id=dfys
 #EXTINF:-1 group-title="地方台",东方影视
@@ -396,7 +398,7 @@ http://play1-qk.nmtv.cn/live/2319general.m3u8
 #EXTINF:-1  tvg-name="内蒙文体" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙文体.png" group-title="地方台",内蒙文体
 http://61.138.99.166:10080/hls/33/index.m3u8
 #EXTINF:-1  tvg-name="内蒙文体" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙文体.png" group-title="地方台",内蒙文体
-http://38.75.136.137:82/live2/nmtv.m3u8?id=nmwt&usign=w4KtKj0MAjjWXcY37-KlMg
+http://38.75.136.137:82/live2/nmtv.m3u8?id=nmwt&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="内蒙经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙经济.png" group-title="地方台",内蒙经济
 http://play1-qk.nmtv.cn/live/1769652200508020.m3u8
 #EXTINF:-1  tvg-name="内蒙经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙经济.png" group-title="地方台",内蒙经济
@@ -404,7 +406,9 @@ http://38.75.136.137:82/live2/nmtv.m3u8?id=nmjj&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="内蒙经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙经济.png" group-title="地方台",内蒙经济
 http://play1-qk.nmtv.cn/live/2317general.m3u8
 #EXTINF:-1  tvg-name="内蒙经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙经济.png" group-title="地方台",内蒙经济
-http://38.75.136.137:82/live2/nmtv.m3u8?id=nmjj&usign=w4KtKj0MAjjWXcY37-KlMg
+http://61.138.99.166:10080/hls/34/index.m3u8
+#EXTINF:-1  tvg-name="内蒙经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/内蒙经济.png" group-title="地方台",内蒙经济
+http://38.75.136.137:82/live2/nmtv.m3u8?id=nmjj&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东南卫视.png" group-title="地方台",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/东南卫视.png" group-title="地方台",东南卫视
@@ -498,11 +502,11 @@ http://121.199.48.54/live1/jsbv2b.m3u8?id=btv6&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="北京体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="地方台",北京体育休闲
 http://qqdwtypm.f3322.org:64022/rtp/239.3.1.243:8000
 #EXTINF:-1  tvg-name="北京体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="地方台",北京体育休闲
-http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=w4KtKj0MAjjWXcY37-KlMg
+http://38.75.136.137:82/live2/btv.m3u8?id=btv6&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="地方台",北京体育休闲
-http://121.199.48.54/live1/jsbv2b.m3u8?id=btv6&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=btv6&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京体育休闲.png" group-title="地方台",北京体育休闲
-http://121.199.48.54/live1/jsbv1.m3u8?id=btv6&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=btv6&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="福建海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/福建海峡卫视.png" group-title="地方台",福建海峡卫视
 http://175.24.134.198:1234/849119120
 #EXTINF:-1  tvg-name="福建海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/福建海峡卫视.png" group-title="地方台",福建海峡卫视
@@ -540,11 +544,11 @@ https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=aud
 #EXTINF:-1  tvg-name="北京新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京新闻.png" group-title="地方台",北京新闻
 http://qqdwtypm.f3322.org:64022/rtp/239.3.1.159:8000
 #EXTINF:-1  tvg-name="北京新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京新闻.png" group-title="地方台",北京新闻
-http://38.75.136.137:82/live2/btv.m3u8?id=btv9&usign=w4KtKj0MAjjWXcY37-KlMg
+http://38.75.136.137:82/live2/btv.m3u8?id=btv9&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京新闻.png" group-title="地方台",北京新闻
-http://121.199.48.54/live1/jsbv2b.m3u8?id=btv9&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=btv9&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京新闻.png" group-title="地方台",北京新闻
-http://121.199.48.54/live1/jsbv1.m3u8?id=btv9&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=btv9&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京新闻.png" group-title="地方台",北京新闻
 http://8.138.7.223/tv/bj.php?id=0007
 #EXTINF:-1 group-title="地方台",北京新闻
@@ -564,15 +568,11 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btv7
 #EXTINF:-1  tvg-name="北京生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京生活.png" group-title="地方台",北京生活
 http://qqdwtypm.f3322.org:64022/rtp/239.3.1.117:8000
 #EXTINF:-1  tvg-name="北京生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京生活.png" group-title="地方台",北京生活
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&amp;BR=audio
+http://38.75.136.137:82/live2/btv.m3u8?id=btv7&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京生活.png" group-title="地方台",北京生活
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&amp;amp;BR=audio
+http://121.199.48.54/live1/jsbv2b.m3u8?id=btv7&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京生活.png" group-title="地方台",北京生活
-http://38.75.136.137:82/live2/btv.m3u8?id=btv7&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1  tvg-name="北京生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京生活.png" group-title="地方台",北京生活
-http://121.199.48.54/live1/jsbv2b.m3u8?id=btv7&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1  tvg-name="北京生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京生活.png" group-title="地方台",北京生活
-http://121.199.48.54/live1/jsbv1.m3u8?id=btv7&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=btv7&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京生活.png" group-title="地方台",北京生活
 http://8.138.7.223/tv/bj.php?id=0006
 #EXTINF:-1 group-title="地方台",北京生活
@@ -596,13 +596,11 @@ https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=aud
 #EXTINF:-1  tvg-name="北京财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京财经.png" group-title="地方台",北京财经
 http://qqdwtypm.f3322.org:64022/rtp/239.3.1.116:8000
 #EXTINF:-1  tvg-name="北京财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京财经.png" group-title="地方台",北京财经
-https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&amp;BR=audio
+http://38.75.136.137:82/live2/btv.m3u8?id=btv5&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京财经.png" group-title="地方台",北京财经
-http://38.75.136.137:82/live2/btv.m3u8?id=btv5&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=btv5&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京财经.png" group-title="地方台",北京财经
-http://121.199.48.54/live1/jsbv2b.m3u8?id=btv5&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1  tvg-name="北京财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京财经.png" group-title="地方台",北京财经
-http://121.199.48.54/live1/jsbv1.m3u8?id=btv5&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=btv5&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="北京财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/北京财经.png" group-title="地方台",北京财经
 http://8.138.7.223/tv/bj.php?id=0005
 #EXTINF:-1 group-title="地方台",北京财经
@@ -1024,11 +1022,11 @@ http://xch819.cn:7788/849119120
 #EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海峡卫视.png" group-title="地方台",海峡卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/haixiaws/50/20230724/index.m3u8?msisdn=2026112412025243259ca4ec244a47a59a1bc8b28fe8a0&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20261124120252&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=171.8.79.254&SecurityKey=20261124120252&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f3acd3fd5272ac63a20e71efaeeae4f9
 #EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海峡卫视.png" group-title="地方台",海峡卫视
+http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/50/20230724/index.m3u8?msisdn=202611240839585dd604a5847d48e592ad3afc9afe60fb&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20261124083958&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=2409:8a00:6031:4481:7e18:aa5:bf8d:c2ce&SecurityKey=20261124083958&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.11.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f31b228d4b8e83d363bf5b51d74b55c1&ddCalcu=1fc3e5125b9b204278dd145bb85ef8b33d63
+#EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海峡卫视.png" group-title="地方台",海峡卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=#http://8.138.7.223/tv/hxws.m3u8
 #EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海峡卫视.png" group-title="地方台",海峡卫视
-http://121.199.48.54/live1/jsbv2b.m3u8?id=hxws&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1  tvg-name="海峡卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/海峡卫视.png" group-title="地方台",海峡卫视
-http://121.199.48.54/live1/jsbv1.m3u8?id=hxws&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=hxws&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 group-title="地方台",海峡卫视
 http://183.250.156.180:9999/newlive/live/hls/25/live.m3u8
 #EXTINF:-1 group-title="地方台",海峡卫视
@@ -1046,9 +1044,9 @@ http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv2&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="天津文艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津文艺.png" group-title="地方台",天津文艺
 http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv2&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="天津文艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津文艺.png" group-title="地方台",天津文艺
-http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv2&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv2&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="天津文艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津文艺.png" group-title="地方台",天津文艺
-http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv2&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv2&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 group-title="地方台",天津文艺
 http://60.26.14.209:85/tsfile/live/13/1002.m3u8?key=txiptv
 #EXTINF:-1 group-title="地方台",天津文艺
@@ -1064,9 +1062,9 @@ http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv1&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="天津新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津新闻.png" group-title="地方台",天津新闻
 http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv1&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="天津新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津新闻.png" group-title="地方台",天津新闻
-http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv1&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv1&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="天津新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津新闻.png" group-title="地方台",天津新闻
-http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv1&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv1&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 group-title="地方台",天津新闻
 http://60.26.14.209:85/tsfile/live/9/1001.m3u8?key=txiptv
 #EXTINF:-1 group-title="地方台",天津新闻
@@ -1082,9 +1080,9 @@ http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv4&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="天津都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津都市.png" group-title="地方台",天津都市
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv4
 #EXTINF:-1  tvg-name="天津都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津都市.png" group-title="地方台",天津都市
-http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv4&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=tjtv4&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="天津都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/天津都市.png" group-title="地方台",天津都市
-http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv4&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv1.m3u8?id=tjtv4&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 group-title="地方台",天津都市
 http://60.26.14.209:85/tsfile/live/21/1004.m3u8?key=txiptv
 #EXTINF:-1 group-title="地方台",天津都市
@@ -1756,11 +1754,11 @@ http://121.199.48.54/live1/xuexi.m3u8?id=kbws&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康巴卫视.png" group-title="地方台",康巴卫视
 http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1  tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康巴卫视.png" group-title="地方台",康巴卫视
-http://121.199.48.54/live1/xuexi.m3u8?id=kbws&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/xuexi.m3u8?id=kbws&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康巴卫视.png" group-title="地方台",康巴卫视
-http://121.199.48.54/live1/xuexi1.m3u8?id=kbws&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/xuexi1.m3u8?id=kbws&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康巴卫视.png" group-title="地方台",康巴卫视
-http://121.199.48.54/live1/kbws.m3u8?id=kbws&usign=w4KtKj0MAjjWXcY37-KlMg@@referer=https://www.kangbatv.com/@@
+http://121.199.48.54/live1/kbws.m3u8?id=kbws&usign=tWeJljt8RIFUfusT49be_A@@referer=https://www.kangbatv.com/@@
 #EXTINF:-1  tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康巴卫视.png" group-title="地方台",康巴卫视
 http://101.224.32.157:9876/udp/239.45.1.251:5140
 #EXTINF:-1  tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/康巴卫视.png" group-title="地方台",康巴卫视
@@ -2000,9 +1998,11 @@ http://mg.cttv.vip/956904896
 #EXTINF:-1  tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/农林卫视.png" group-title="地方台",农林卫视
 http://222.90.21.30:9901/hls/66/index.m3u8#http://gxlive.snrtv.com/nlws-SD.m3u8
 #EXTINF:-1  tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/农林卫视.png" group-title="地方台",农林卫视
-http://121.199.48.54/live1/jsbv2b.m3u8?id=snnl&usign=w4KtKj0MAjjWXcY37-KlMg
+http://110.72.84.64:808/hls/18/index.m3u8
 #EXTINF:-1  tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/农林卫视.png" group-title="地方台",农林卫视
-http://121.199.48.54/live1/jsbv1.m3u8?id=snnl&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/jsbv2b.m3u8?id=snnl&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1  tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/农林卫视.png" group-title="地方台",农林卫视
+http://121.199.48.54/live1/jsbv1.m3u8?id=snnl&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/农林卫视.png" group-title="地方台",农林卫视
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
 #EXTINF:-1  tvg-name="农林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/农林卫视.png" group-title="地方台",农林卫视
@@ -2104,11 +2104,13 @@ http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv10&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="浙江国际" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江国际.png" group-title="地方台",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1  tvg-name="浙江国际" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江国际.png" group-title="地方台",浙江国际
-http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv10&usign=w4KtKj0MAjjWXcY37-KlMg
+http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
 #EXTINF:-1  tvg-name="浙江国际" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江国际.png" group-title="地方台",浙江国际
-http://121.199.48.54/live1/zjtv.m3u8?id=zjtv10&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv10&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="浙江国际" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江国际.png" group-title="地方台",浙江国际
-http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv10&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/zjtv.m3u8?id=zjtv10&usign=tWeJljt8RIFUfusT49be_A
+#EXTINF:-1  tvg-name="浙江国际" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江国际.png" group-title="地方台",浙江国际
+http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv10&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 group-title="地方台",浙江国际
 https://ali-xwl.cztv.com/live/channel10720Pnew.m3u8
 #EXTINF:-1 group-title="地方台",浙江国际
@@ -2168,17 +2170,17 @@ http://121.199.48.54/live1/zjtv.m3u8?id=zjtv4&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="浙江教科影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教科影视.png" group-title="地方台",浙江教科影视
 http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv4&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="浙江教科影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教科影视.png" group-title="地方台",浙江教科影视
-http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv4&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="浙江教科影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教科影视.png" group-title="地方台",浙江教科影视
-http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv4&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/zjtv.m3u8?id=zjtv4&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="浙江教科影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教科影视.png" group-title="地方台",浙江教科影视
-http://121.199.48.54/live1/zjtv.m3u8?id=zjtv4&usign=w4KtKj0MAjjWXcY37-KlMg
-#EXTINF:-1  tvg-name="浙江教科影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教科影视.png" group-title="地方台",浙江教科影视
-http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv4&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv4&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 group-title="地方台",浙江教科影视
 http://A/ku9/js/web.js?id=https://www.cztv.com/liveTV/104
 #EXTINF:-1  tvg-name="浙江教科影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教科影院.png" group-title="地方台",浙江教科影院
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+#EXTINF:-1  tvg-name="浙江教科影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教科影院.png" group-title="地方台",浙江教科影院
+https://stream2.jlntv.cn/sytv/sd/live.m3u8
 #EXTINF:-1  tvg-name="浙江教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教育.png" group-title="地方台",浙江教育
 http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1  tvg-name="浙江教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江教育.png" group-title="地方台",浙江教育
@@ -2218,13 +2220,13 @@ http://121.199.48.54/live1/zjtv.m3u8?id=zjtv7&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="浙江新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江新闻.png" group-title="地方台",浙江新闻
 http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv7&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1  tvg-name="浙江新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江新闻.png" group-title="地方台",浙江新闻
-http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 #EXTINF:-1  tvg-name="浙江新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江新闻.png" group-title="地方台",浙江新闻
-http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv7&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/zjtv1.m3u8?id=zjtv7&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="浙江新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江新闻.png" group-title="地方台",浙江新闻
-http://121.199.48.54/live1/zjtv.m3u8?id=zjtv7&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/zjtv.m3u8?id=zjtv7&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1  tvg-name="浙江新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/浙江新闻.png" group-title="地方台",浙江新闻
-http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv7&usign=w4KtKj0MAjjWXcY37-KlMg
+http://121.199.48.54/live1/zjtv2.m3u8?id=zjtv7&usign=tWeJljt8RIFUfusT49be_A
 #EXTINF:-1 group-title="地方台",浙江新闻
 https://ali-xwl.cztv.com/live/channel07720Pnew.m3u8
 #EXTINF:-1 group-title="地方台",浙江新闻
