@@ -1,16 +1,16 @@
 {
-  "time": "2026-11-25T04:57:06.678190+00:00",
+  "time": "2026-11-26T04:12:39.545920+00:00",
   "status": "published",
   "policy": "dsj-all-other-sources-channel-list-five-categories",
   "sources": [
     {
       "source": "CCSH/IPTV / live.m3u",
       "scope": "channel-list",
-      "entries": 4883,
-      "added": 2007,
+      "entries": 4959,
+      "added": 2018,
       "duplicates": 47,
       "invalid": 32,
-      "filtered": 2829
+      "filtered": 2894
     },
     {
       "source": "User IPv4 supplement / supplemental.m3u",
@@ -25,19 +25,19 @@
       "source": "Guovin IPv4 / ipv4.m3u",
       "scope": "channel-list",
       "entries": 277,
-      "added": 28,
-      "duplicates": 174,
+      "added": 29,
+      "duplicates": 173,
       "invalid": 0,
       "filtered": 75
     },
     {
       "source": "Best-fan IPTV / cn_all_status.m3u8",
       "scope": "channel-list",
-      "entries": 296,
-      "added": 234,
-      "duplicates": 57,
+      "entries": 447,
+      "added": 334,
+      "duplicates": 109,
       "invalid": 0,
-      "filtered": 5
+      "filtered": 4
     },
     {
       "source": "bang359/dsj / dsj.txt",
@@ -52,8 +52,8 @@
       "source": "bang359/dsj / dsjcs.txt",
       "scope": "all",
       "entries": 1260,
-      "added": 1175,
-      "duplicates": 85,
+      "added": 1173,
+      "duplicates": 87,
       "invalid": 3,
       "filtered": 0
     },
@@ -79,8 +79,8 @@
       "source": "bang359/dsj / ku9.txt",
       "scope": "all",
       "entries": 709,
-      "added": 706,
-      "duplicates": 3,
+      "added": 705,
+      "duplicates": 4,
       "invalid": 113,
       "filtered": 0
     },
@@ -96,19 +96,19 @@
   ],
   "total_channels": 1562,
   "new_channels": 1427,
-  "total_lines": 5105,
+  "total_lines": 5214,
   "categories": {
     "cctv": {
       "channels": 35,
-      "lines": 1033
+      "lines": 1047
     },
     "local": {
       "channels": 68,
-      "lines": 1580
+      "lines": 1660
     },
     "hmt": {
       "channels": 17,
-      "lines": 264
+      "lines": 274
     },
     "international": {
       "channels": 115,
@@ -116,7 +116,7 @@
     },
     "other": {
       "channels": 1327,
-      "lines": 2094
+      "lines": 2099
     }
   }
 }

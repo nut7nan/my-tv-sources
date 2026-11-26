@@ -1,8 +1,8 @@
 {
-  "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u": "f23c73f4f1283bda8f74f5bc971d8a6e1a534fb216ce5cd1d2c498e4b3bcbccb",
+  "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u": "e242a617578e2b0b99b0bf89403f232288ae5c792d7e73ea33ba8affd6efdaa5",
   "config/supplemental.m3u": "8473e14987e3386a5fe61e8979cfbb45f06ad50c651ff83a02bef51b4836c0d9",
   "https://guovin.github.io/iptv-api/ipv4.m3u": "972910acff86a00b60bee0aaa1513d76e94ac431b3becaa8404abf9270e43fbd",
-  "https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all_status.m3u8": "447760460e14346f41edc025f30166348a75b590a8135a5ca11a47bbe393dd56",
+  "https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all_status.m3u8": "d443640322dbbb4ad7e2b7267dff5e1238a236ef70b4b71511413cd941af7d5a",
   "https://raw.githubusercontent.com/bang359/dsj/main/dsj.txt": "f89a4579726c3cb6be148bfbd826bd2d084efc7a2978afee013bf2fa31ae0e60",
   "https://raw.githubusercontent.com/bang359/dsj/main/dsjcs.txt": "7b58aa73f410194050fe7bfd1950ee122fa618ba93aed782db37a05b972aee04",
   "https://raw.githubusercontent.com/bang359/dsj/main/dsjcs1.txt": "73b698fb0d4c3d35e3e55c69f3b03235e77cd805b54a851ebe4d1657fa9ec3df",
