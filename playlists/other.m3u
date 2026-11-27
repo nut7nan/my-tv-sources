@@ -48,7 +48,7 @@ http://zmgd.zyrnet.com:8888/hls/16/index.m3u8
 #EXTINF:-1 group-title="其他",CETV1
 http://120.237.39.10:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="其他",CETV1
-http://101.43.82.170:1234/923287154
+http://114.228.118.193:7788/923287154
 #EXTINF:-1 group-title="其他",CETV1
 http://fn.wsk-net.online:6008/relay/ysp-cetv1.m3u8
 #EXTINF:-1 group-title="其他",CETV1
@@ -102,7 +102,7 @@ http://ahmaslt.sohu.blog:8000/hls/21/index.m3u8
 #EXTINF:-1 group-title="其他",CETV2
 http://zmgd.zyrnet.com:8888/hls/49/index.m3u8
 #EXTINF:-1 group-title="其他",CETV2
-http://101.43.82.170:1234/923287211
+http://114.228.118.193:7788/923287211
 #EXTINF:-1 group-title="其他",CETV2
 http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 #EXTINF:-1  tvg-name="CETV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV3.png" group-title="其他",CETV3
@@ -162,7 +162,7 @@ http://ahmaslt.sohu.blog:8000/hls/22/index.m3u8
 #EXTINF:-1 group-title="其他",CETV4
 http://zmgd.zyrnet.com:8888/hls/70/index.m3u8
 #EXTINF:-1 group-title="其他",CETV4
-http://101.43.82.170:1234/923287339
+http://114.228.118.193:7788/923287339
 #EXTINF:-1 group-title="其他",CETV4
 http://A/ku9/js/web.js?id=https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 #EXTINF:-1  tvg-name="CHC动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CHC动作电影.png" group-title="其他",CHC动作电影
@@ -214,7 +214,7 @@ http://go.bkpcp.top/mg/dzdy
 #EXTINF:-1 group-title="其他",CHC动作电影
 http://k.061899.xyz/k.php?id=dzdy
 #EXTINF:-1 group-title="其他",CHC动作电影
-http://101.43.82.170:1234/644368714
+http://114.228.118.193:7788/644368714
 #EXTINF:-1 group-title="其他",CHC动作电影
 https://d.0j7.cn/pyDzWj
 #EXTINF:-1 group-title="其他",CHC动作电影
@@ -268,7 +268,7 @@ http://k.061899.xyz/k.php?id=jtyy
 #EXTINF:-1 group-title="其他",CHC家庭影院
 http://120.238.84.45:9901/tsfile/live/1093_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",CHC家庭影院
-http://101.43.82.170:1234/644368373
+http://114.228.118.193:7788/644368373
 #EXTINF:-1 group-title="其他",CHC家庭影院
 https://d.0j7.cn/na6XQ
 #EXTINF:-1 group-title="其他",CHC家庭影院
@@ -323,6 +323,8 @@ http://k.061899.xyz/k.php?id=ymdy
 http://101.43.82.170:1234/952383261
 #EXTINF:-1 group-title="其他",CHC影迷电影
 http://112.27.5.218:9901/tsfile/live/faacts/1038_1.m3u8
+#EXTINF:-1 group-title="其他",CHC影迷电影
+http://114.228.118.193:7788/952383261
 #EXTINF:-1 group-title="其他",CHC影迷电影
 https://d.0j7.cn/ihlQDE
 #EXTINF:-1 group-title="其他",CHC影迷电影
@@ -506,7 +508,7 @@ http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/47
 #EXTINF:-1 group-title="其他",2026年8月22日
 https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dashang.mp4
 #EXTINF:-1 group-title="其他",24小时城市联赛轮播台
-http://101.43.82.170:1234/915512915
+http://114.228.118.193:7788/915512915
 #EXTINF:-1 group-title="其他",24小时城市联赛轮播台
 http://mg.cttv.vip/915512915
 #EXTINF:-1 group-title="其他",BBS佛教广播
@@ -626,19 +628,19 @@ http://A/ku9/js/web.js?id=https://www.nctv.net.cn/live
 #EXTINF:-1 group-title="其他",cctv-南昌资讯
 http://A/ku9/js/web.js?id=https://www.nctv.net.cn/live?channel=3
 #EXTINF:-1 group-title="其他",CCTV10科教
-http://101.43.82.170:1234/624878405
+http://114.228.118.193:7788/624878405
 #EXTINF:-1 group-title="其他",CCTV10科教
 http://fn.wsk-net.online:6008/relay/ysp-cctv10.m3u8
 #EXTINF:-1 group-title="其他",CCTV10科教
 http://mg.cttv.vip/624878405
 #EXTINF:-1 group-title="其他",CCTV11戏曲
-http://101.43.82.170:1234/667987558
+http://114.228.118.193:7788/667987558
 #EXTINF:-1 group-title="其他",CCTV11戏曲
 http://fn.wsk-net.online:6008/relay/ysp-cctv11.m3u8
 #EXTINF:-1 group-title="其他",CCTV11戏曲
 http://mg.cttv.vip/667987558
 #EXTINF:-1 group-title="其他",CCTV12社会与法
-http://101.43.82.170:1234/673168185
+http://114.228.118.193:7788/673168185
 #EXTINF:-1 group-title="其他",CCTV12社会与法
 http://fn.wsk-net.online:6008/relay/ysp-cctv12.m3u8
 #EXTINF:-1 group-title="其他",CCTV12社会与法
@@ -646,13 +648,13 @@ http://mg.cttv.vip/673168185
 #EXTINF:-1 group-title="其他",CCTV13抖音
 http://A/ku9/js/web.js?id=https://live.douyin.com/cctv_video
 #EXTINF:-1 group-title="其他",CCTV13新闻
-http://101.43.82.170:1234/608807423
+http://114.228.118.193:7788/608807423
 #EXTINF:-1 group-title="其他",CCTV13新闻
 http://fn.wsk-net.online:6008/relay/ysp-cctv13.m3u8
 #EXTINF:-1 group-title="其他",CCTV13新闻
 http://mg.cttv.vip/608807423
 #EXTINF:-1 group-title="其他",CCTV14少儿
-http://101.43.82.170:1234/624878440
+http://114.228.118.193:7788/624878440
 #EXTINF:-1 group-title="其他",CCTV14少儿
 http://iptv.4666888.xyz/iptv2A.php?id=12
 #EXTINF:-1 group-title="其他",CCTV14少儿
@@ -660,7 +662,7 @@ http://fn.wsk-net.online:6008/relay/ysp-cctv14.m3u8
 #EXTINF:-1 group-title="其他",CCTV14少儿
 http://mg.cttv.vip/624878440
 #EXTINF:-1 group-title="其他",CCTV15音乐
-http://101.43.82.170:1234/673168223
+http://114.228.118.193:7788/673168223
 #EXTINF:-1 group-title="其他",CCTV15音乐
 http://fn.wsk-net.online:6008/relay/ysp-cctv15.m3u8
 #EXTINF:-1 group-title="其他",CCTV15音乐
@@ -668,13 +670,13 @@ http://mg.cttv.vip/673168223
 #EXTINF:-1 group-title="其他",CCTV16奥林匹克
 http://fn.wsk-net.online:6008/relay/ysp-cctv16.m3u8
 #EXTINF:-1 group-title="其他",CCTV17农业农村
-http://101.43.82.170:1234/673168256
+http://114.228.118.193:7788/673168256
 #EXTINF:-1 group-title="其他",CCTV17农业农村
 http://fn.wsk-net.online:6008/relay/ysp-cctv17.m3u8
 #EXTINF:-1 group-title="其他",CCTV17农业农村
 http://mg.cttv.vip/673168256
 #EXTINF:-1 group-title="其他",CCTV1综合
-http://101.43.82.170:1234/608807420
+http://114.228.118.193:7788/608807420
 #EXTINF:-1 group-title="其他",CCTV1综合
 http://iptv.4666888.xyz/iptv2A.php?id=7
 #EXTINF:-1 group-title="其他",CCTV1综合
@@ -682,7 +684,7 @@ http://fn.wsk-net.online:6008/relay/ysp-cctv1.m3u8
 #EXTINF:-1 group-title="其他",CCTV1综合
 http://mg.cttv.vip/608807420
 #EXTINF:-1 group-title="其他",CCTV2财经
-http://101.43.82.170:1234/631780532
+http://114.228.118.193:7788/631780532
 #EXTINF:-1 group-title="其他",CCTV2财经
 http://iptv.4666888.xyz/iptv2A.php?id=8
 #EXTINF:-1 group-title="其他",CCTV2财经
@@ -690,7 +692,7 @@ http://fn.wsk-net.online:6008/relay/ysp-cctv2.m3u8
 #EXTINF:-1 group-title="其他",CCTV2财经
 http://mg.cttv.vip/631780532
 #EXTINF:-1 group-title="其他",CCTV3综艺
-http://101.43.82.170:1234/624878271
+http://114.228.118.193:7788/624878271
 #EXTINF:-1 group-title="其他",CCTV3综艺
 http://iptv.4666888.xyz/iptv2A.php?id=9
 #EXTINF:-1 group-title="其他",CCTV3综艺
@@ -698,13 +700,13 @@ http://fn.wsk-net.online:6008/relay/ysp-cctv3.m3u8
 #EXTINF:-1 group-title="其他",CCTV3综艺
 http://mg.cttv.vip/624878271
 #EXTINF:-1 group-title="其他",CCTV4中文国际
-http://101.43.82.170:1234/631780421
+http://114.228.118.193:7788/631780421
 #EXTINF:-1 group-title="其他",CCTV4中文国际
 http://fn.wsk-net.online:6008/relay/ysp-cctv4.m3u8
 #EXTINF:-1 group-title="其他",CCTV4中文国际
 http://mg.cttv.vip/631780421
 #EXTINF:-1 group-title="其他",CCTV4欧洲
-http://101.43.82.170:1234/608807419
+http://114.228.118.193:7788/608807419
 #EXTINF:-1 group-title="其他",CCTV4欧洲
 http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctveurope/index.shtml
 #EXTINF:-1 group-title="其他",CCTV4欧洲
@@ -712,7 +714,7 @@ http://119.233.255.62:1234/608807419
 #EXTINF:-1 group-title="其他",CCTV4欧洲
 http://mg.cttv.vip/608807419
 #EXTINF:-1 group-title="其他",CCTV4美洲
-http://101.43.82.170:1234/608807416
+http://114.228.118.193:7788/608807416
 #EXTINF:-1 group-title="其他",CCTV4美洲
 http://A/ku9/js/web.js?id=https://tv.cctv.com/live/cctvamerica/
 #EXTINF:-1 group-title="其他",CCTV4美洲
@@ -722,37 +724,37 @@ http://mg.cttv.vip/608807416
 #EXTINF:-1 group-title="其他",CCTV5+体育赛事
 http://116.77.33.98:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他",CCTV5+体育赛事
-http://101.43.82.170:1234/641886773
+http://114.228.118.193:7788/641886773
 #EXTINF:-1 group-title="其他",CCTV5+体育赛事
 http://fn.wsk-net.online:6008/relay/ysp-cctv5p.m3u8
 #EXTINF:-1 group-title="其他",CCTV5+体育赛事
 http://mg.cttv.vip/641886773
 #EXTINF:-1 group-title="其他",CCTV5体育
-http://101.43.82.170:1234/641886683
+http://114.228.118.193:7788/641886683
 #EXTINF:-1 group-title="其他",CCTV5体育
 http://fn.wsk-net.online:6008/relay/ysp-cctv5.m3u8
 #EXTINF:-1 group-title="其他",CCTV5体育
 http://mg.cttv.vip/641886683
 #EXTINF:-1 group-title="其他",CCTV6电影
-http://101.43.82.170:1234/624878396
+http://114.228.118.193:7788/624878396
 #EXTINF:-1 group-title="其他",CCTV6电影
 http://fn.wsk-net.online:6008/relay/ysp-cctv6.m3u8
 #EXTINF:-1 group-title="其他",CCTV6电影
 http://mg.cttv.vip/624878396
 #EXTINF:-1 group-title="其他",CCTV7国防军事
-http://101.43.82.170:1234/673168121
+http://114.228.118.193:7788/673168121
 #EXTINF:-1 group-title="其他",CCTV7国防军事
 http://fn.wsk-net.online:6008/relay/ysp-cctv7.m3u8
 #EXTINF:-1 group-title="其他",CCTV7国防军事
 http://mg.cttv.vip/673168121
 #EXTINF:-1 group-title="其他",CCTV8电视剧
-http://101.43.82.170:1234/624878356
+http://114.228.118.193:7788/624878356
 #EXTINF:-1 group-title="其他",CCTV8电视剧
 http://fn.wsk-net.online:6008/relay/ysp-cctv8.m3u8
 #EXTINF:-1 group-title="其他",CCTV8电视剧
 http://mg.cttv.vip/624878356
 #EXTINF:-1 group-title="其他",CCTV9纪录
-http://101.43.82.170:1234/673168140
+http://114.228.118.193:7788/673168140
 #EXTINF:-1 group-title="其他",CCTV9纪录
 http://fn.wsk-net.online:6008/relay/ysp-cctv9.m3u8
 #EXTINF:-1 group-title="其他",CCTV9纪录
@@ -892,7 +894,7 @@ http://116.77.33.98:44330/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他",CGTN
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="其他",CGTN
-http://101.43.82.170:1234/609017205
+http://114.228.118.193:7788/609017205
 #EXTINF:-1 group-title="其他",CGTN
 http://fn.wsk-net.online:6008/relay/ysp-cgtn.m3u8
 #EXTINF:-1 group-title="其他",CGTN
@@ -932,7 +934,7 @@ http://A/ku9/js/web.js?id=https://www.yangshipin.cn/tv/home?pid=600084782
 #EXTINF:-1 group-title="其他",CGTN俄语
 http://120.76.248.139/live/bfgd/4200000309.m3u8
 #EXTINF:-1 group-title="其他",CGTN俄语
-http://101.43.82.170:1234/609006446
+http://114.228.118.193:7788/609006446
 #EXTINF:-1 group-title="其他",CGTN俄语
 http://fn.wsk-net.online:6008/relay/ysp-cgtney.m3u8
 #EXTINF:-1 group-title="其他",CGTN俄语
@@ -942,7 +944,7 @@ http://mg.cttv.vip/609006446
 #EXTINF:-1 group-title="其他",CGTN外语纪录
 http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="其他",CGTN外语纪录
-http://101.43.82.170:1234/609006487
+http://114.228.118.193:7788/609006487
 #EXTINF:-1 group-title="其他",CGTN外语纪录
 http://mg.cttv.vip/609006487
 #EXTINF:-1 group-title="其他",CGTN法语
@@ -950,7 +952,7 @@ http://120.76.248.139/live/bfgd/4200000307.m3u8
 #EXTINF:-1 group-title="其他",CGTN法语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 group-title="其他",CGTN法语
-http://101.43.82.170:1234/609006476
+http://114.228.118.193:7788/609006476
 #EXTINF:-1 group-title="其他",CGTN法语
 http://fn.wsk-net.online:6008/relay/ysp-cgtnfy.m3u8
 #EXTINF:-1 group-title="其他",CGTN法语
@@ -970,7 +972,7 @@ http://120.76.248.139/live/bfgd/4200000306.m3u8
 #EXTINF:-1 group-title="其他",CGTN西班牙语
 http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 #EXTINF:-1 group-title="其他",CGTN西班牙语
-http://101.43.82.170:1234/609006450
+http://114.228.118.193:7788/609006450
 #EXTINF:-1 group-title="其他",CGTN西班牙语
 http://fn.wsk-net.online:6008/relay/ysp-cgtnxby.m3u8
 #EXTINF:-1 group-title="其他",CGTN西班牙语
@@ -980,7 +982,7 @@ http://A/ku9/js/web.js?id=https://yangshipin.cn/tv/home?pid=600084744
 #EXTINF:-1 group-title="其他",CGTN阿拉伯语
 http://120.76.248.139/live/bfgd/4200000308.m3u8
 #EXTINF:-1 group-title="其他",CGTN阿拉伯语
-http://101.43.82.170:1234/609154345
+http://114.228.118.193:7788/609154345
 #EXTINF:-1 group-title="其他",CGTN阿拉伯语
 http://fn.wsk-net.online:6008/relay/ysp-cgtnalby.m3u8
 #EXTINF:-1 group-title="其他",CGTN阿拉伯语
@@ -1156,19 +1158,19 @@ http://116.77.33.98:44330/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="其他",上海新闻综合
 http://k.061899.xyz/k.php?id=shxw
 #EXTINF:-1 group-title="其他",上海新闻综合
-http://101.43.82.170:1234/651632657
+http://114.228.118.193:7788/651632657
 #EXTINF:-1 group-title="其他",上海新闻综合
 http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=2
 #EXTINF:-1 group-title="其他",上海第一财经
 http://k.061899.xyz/k.php?id=dycj
 #EXTINF:-1 group-title="其他",上海第一财经
-http://101.43.82.170:1234/608780988
+http://114.228.118.193:7788/608780988
 #EXTINF:-1 group-title="其他",上海都市
 http://180.165.12.42:50001/tsfile/live/0001_18.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",上海都市
 http://A/ku9/js/web.js?id=https://live.kankanews.com/huikan?id=4
 #EXTINF:-1 group-title="其他",上视东方影视
-http://101.43.82.170:1234/617290047
+http://114.228.118.193:7788/617290047
 #EXTINF:-1 group-title="其他",世界华声
 https://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1 group-title="其他",东方卫视4k
@@ -1206,7 +1208,7 @@ https://iptv.catvod.com/douyin/wuhanlkgrmt
 #EXTINF:-1 group-title="其他",中华小当家
 https://live.ottiptv.cc/huya/11342413
 #EXTINF:-1 group-title="其他",中华特产
-http://101.43.82.170:1234/959986618
+http://114.228.118.193:7788/959986618
 #EXTINF:-1 group-title="其他",中国之声
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 group-title="其他",中国乡村之声
@@ -1214,7 +1216,7 @@ https://ngcdn017.cnr.cn/live/xczs/index.m3u8
 #EXTINF:-1 group-title="其他",中国交通广播
 https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 group-title="其他",中国农林卫视
-http://101.43.82.170:1234/956904896
+http://114.228.118.193:7788/956904896
 #EXTINF:-1 group-title="其他",中国功夫
 http://gslbserv.itv.cmvideo.cn:80/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 group-title="其他",中国天气
@@ -1222,7 +1224,7 @@ http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",中国天气
 http://124.165.34.10:8082/rtp/226.0.2.103:8736
 #EXTINF:-1 group-title="其他",中国天气
-http://101.43.82.170:1234/959986621
+http://114.228.118.193:7788/959986621
 #EXTINF:-1 group-title="其他",中国教育
 http://120.238.84.45:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",中国教育1台
@@ -1230,7 +1232,7 @@ http://gslbserv.itv.cmvideo.cn:80/7106250793420582078/1.m3u8?channel-id=ystenliv
 #EXTINF:-1 group-title="其他",中国电影
 http://iptv.4666888.xyz/iptv2A.php?id=61
 #EXTINF:-1 group-title="其他",中国航天“逆袭”之路
-http://101.43.82.170:1234/713600957
+http://114.228.118.193:7788/713600957
 #EXTINF:-1 group-title="其他",中国足球风云
 http://k.061899.xyz/k.php?id=zqfy
 #EXTINF:-1 group-title="其他",中国黄金
@@ -1246,7 +1248,7 @@ https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 #EXTINF:-1 group-title="其他",中天新闻
 http://A/ku9/js/web.js?id=https://v.kylintv.com/
 #EXTINF:-1 group-title="其他",中学生
-http://101.43.82.170:1234/708869532
+http://114.228.118.193:7788/708869532
 #EXTINF:-1 group-title="其他",中学生
 http://mg.cttv.vip/708869532
 #EXTINF:-1 group-title="其他",中山综合
@@ -1420,19 +1422,19 @@ http://106.52.119.159:1234/626064703
 #EXTINF:-1 group-title="其他",优漫卡通
 http://A/ku9/js/web.js?id=https://live.jstv.com/?channelId=667
 #EXTINF:-1 group-title="其他",优漫卡通频道
-http://101.43.82.170:1234/626064703
+http://114.228.118.193:7788/626064703
 #EXTINF:-1 group-title="其他",伪装者
 https://live.ottiptv.cc/yy/1354936244
 #EXTINF:-1 group-title="其他",体坛名栏汇
 http://k.061899.xyz/k.php?id=ttmlh
 #EXTINF:-1 group-title="其他",体坛名栏汇
-http://101.43.82.170:1234/629943305
+http://114.228.118.193:7788/629943305
 #EXTINF:-1 group-title="其他",体坛名栏汇
 http://mg.cttv.vip/629943305
 #EXTINF:-1 group-title="其他",体育休闲
 http://gxlive.snrtv.com/sx7-SD.m3u8
 #EXTINF:-1 group-title="其他",体育休闲频道
-http://101.43.82.170:1234/626064707
+http://114.228.118.193:7788/626064707
 #EXTINF:-1 group-title="其他",佛山公共
 http://A/ku9/js/web.js?id=http://p.123tv.cn/p/gdfs.php?id=fsgg
 #EXTINF:-1 group-title="其他",佛山公共
@@ -1474,7 +1476,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=52
 #EXTINF:-1 group-title="其他",公共应急
 https://live.gstv.com.cn/live/c6gljof.m3u8
 #EXTINF:-1 group-title="其他",公共新闻频道
-http://101.43.82.170:1234/626064693
+http://114.228.118.193:7788/626064693
 #EXTINF:-1 group-title="其他",公视
 http://211.72.174.95:8116/0.ts
 #EXTINF:-1 group-title="其他",六盘水卫视
@@ -1600,17 +1602,17 @@ https://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 group-title="其他",南京十八生活
 http://A/ku9/js/web.js?id=https://www.nbs.cn/live/?id=110094
 #EXTINF:-1 group-title="其他",南京十八频道
-http://101.43.82.170:1234/838151753
+http://114.228.118.193:7788/838151753
 #EXTINF:-1 group-title="其他",南京少年儿童
 http://A/ku9/js/web.js?id=https://www.nbs.cn/live/?id=110095
 #EXTINF:-1 group-title="其他",南京教科频道
-http://101.43.82.170:1234/838153729
+http://114.228.118.193:7788/838153729
 #EXTINF:-1 group-title="其他",南京教育科技
 http://A/ku9/js/web.js?id=https://www.nbs.cn/live/?id=109153
 #EXTINF:-1 group-title="其他",南京新闻综合
 http://A/ku9/js/web.js?id=https://www.nbs.cn/live/?id=109152
 #EXTINF:-1 group-title="其他",南京新闻综合频道
-http://101.43.82.170:1234/838109047
+http://114.228.118.193:7788/838109047
 #EXTINF:-1 group-title="其他",南宁公共
 https://hls.nntv.cn/nnlive/GGPD_24.m3u8
 #EXTINF:-1 group-title="其他",南宁公共频道
@@ -1628,13 +1630,13 @@ https://hls.nntv.cn/nnlive/XWZH_24.m3u8
 #EXTINF:-1 group-title="其他",南宁新闻综合
 http://A/ku9/js/web.js?id=http://www.nntv.cn/live/nntv_xw/
 #EXTINF:-1 group-title="其他",南方影视
-http://101.43.82.170:1234/614961829
+http://114.228.118.193:7788/614961829
 #EXTINF:-1 group-title="其他",南方购物
 http://A/ku9/js/web.js?id=https://www.gdtv.cn/tvChannelDetail/42
 #EXTINF:-1 group-title="其他",南海之声
 https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 group-title="其他",南通新闻综合
-http://101.43.82.170:1234/955227985
+http://114.228.118.193:7788/955227985
 #EXTINF:-1 group-title="其他",博斯高球1
 http://iptv.4666888.xyz/iptv2A.php?id=10
 #EXTINF:-1 group-title="其他",卡哇伊
@@ -1716,7 +1718,7 @@ http://A/ku9/js/web.js?id=https://st-app.xjmty.com/video/videojs/index?site_id=1
 #EXTINF:-1 group-title="其他",和田1
 http://A/ku9/js/web.js?id=https://st-app.xjmty.com/video/videojs/index?site_id=10111%26id=12%26page=canvas%26live_type=1
 #EXTINF:-1 group-title="其他",和美乡途轮播台
-http://101.43.82.170:1234/713591450
+http://114.228.118.193:7788/713591450
 #EXTINF:-1 group-title="其他",咪咕24小时体育台
 http://k.061899.xyz/k.php?id=mgty
 #EXTINF:-1 group-title="其他",咪咕体育
@@ -1832,7 +1834,7 @@ http://k.061899.xyz/k.php?id=jjkt
 #EXTINF:-1 group-title="其他",嘉佳卡通
 http://zmgd.zyrnet.com:8888/hls/74/index.m3u8
 #EXTINF:-1 group-title="其他",嘉佳卡通
-http://101.43.82.170:1234/614952364
+http://114.228.118.193:7788/614952364
 #EXTINF:-1 group-title="其他",嘉佳卡通
 http://120.238.84.45:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",嘉佳卡通
@@ -1878,7 +1880,7 @@ https://lhttp.qingting.fm/live/1110/64k.mp3
 #EXTINF:-1 group-title="其他",四平综合
 http://A/ku9/js/web.js?id=http://evfh-www.plus.jlntv.cn/siping/folder134/folder158
 #EXTINF:-1 group-title="其他",四海钓鱼
-http://101.43.82.170:1234/637444975
+http://114.228.118.193:7788/637444975
 #EXTINF:-1 group-title="其他",四海钓鱼
 http://114.240.228.159:7788/637444975
 #EXTINF:-1 group-title="其他",四海钓鱼
@@ -2042,7 +2044,7 @@ http://A/ku9/js/web.js?id=https://movement.gzstv.com/streams/videolive/79
 #EXTINF:-1 group-title="其他",官网更新👇
 https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dashang.mp4
 #EXTINF:-1 group-title="其他",宜兴新闻综合
-http://101.43.82.170:1234/955227996
+http://114.228.118.193:7788/955227996
 #EXTINF:-1 group-title="其他",宜昌旅游
 https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 group-title="其他",宜昌综合
@@ -2060,7 +2062,7 @@ http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_999_1080P_t10/c59_fast_99
 #EXTINF:-1 group-title="其他",家有购物
 http://gslbserv.itv.cmvideo.cn:80/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 group-title="其他",宿迁新闻综合
-http://101.43.82.170:1234/639731832
+http://114.228.118.193:7788/639731832
 #EXTINF:-1 group-title="其他",尉氏新闻频道
 http://A/ku9/js/web.js?id=https://www.kftv.net.cn/info/940
 #EXTINF:-1 group-title="其他",小草口令E94Y
@@ -2084,7 +2086,7 @@ http://223.78.65.165:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",山东少儿
 http://58.56.162.102:4466/newlive/live/hls/55/live.m3u8
 #EXTINF:-1 group-title="其他",山东教育
-http://101.43.82.170:1234/609154353
+http://114.228.118.193:7788/609154353
 #EXTINF:-1 group-title="其他",山东教育
 http://120.238.84.45:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",山东教育
@@ -2308,13 +2310,13 @@ http://A/ku9/js/web.js?id=https://www.cditv.cn/show/4844-576.html
 #EXTINF:-1 group-title="其他",影视文化
 http://123.207.224.130:123/xizang/xizang.php?id=xzys
 #EXTINF:-1 group-title="其他",徐州新闻综合
-http://101.43.82.170:1234/639731747
+http://114.228.118.193:7788/639731747
 #EXTINF:-1 group-title="其他",德阳1
 http://A/ku9/js/web.js?id=http://zb.scdytv.com/?name=xwpd
 #EXTINF:-1 group-title="其他",德阳文旅科教
 http://A/ku9/js/web.js?id=http://zb.scdytv.com/?name=ggpd
 #EXTINF:-1 group-title="其他",快乐垂钓
-http://101.43.82.170:1234/961930263
+http://114.228.118.193:7788/961930263
 #EXTINF:-1 group-title="其他",快乐垂钓
 http://114.240.228.159:7788/961930263
 #EXTINF:-1 group-title="其他",快乐垂钓
@@ -2360,7 +2362,7 @@ http://A/ku9/js/web.js?id=https://www.cditv.cn/show/4845-561.html
 #EXTINF:-1 group-title="其他",房县综合
 http://123.14.89.92:3333/relay/gdy-3947-4736.m3u8
 #EXTINF:-1 group-title="其他",抗战经典影片
-http://101.43.82.170:1234/617432318
+http://114.228.118.193:7788/617432318
 #EXTINF:-1 group-title="其他",拉萨文旅
 rtmp://tv.lasatv.cn/channellive/lswlpd
 #EXTINF:-1 group-title="其他",拉萨综合
@@ -2386,9 +2388,9 @@ http://123.12.8.224:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",文艺之声
 https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 #EXTINF:-1 group-title="其他",新动力量创一流
-http://101.43.82.170:1234/713589837
+http://114.228.118.193:7788/713589837
 #EXTINF:-1 group-title="其他",新动漫
-http://101.43.82.170:1234/961930269
+http://114.228.118.193:7788/961930269
 #EXTINF:-1 group-title="其他",新动漫
 http://114.240.228.159:7788/961930269
 #EXTINF:-1 group-title="其他",新唐人
@@ -2404,7 +2406,7 @@ http://123.14.89.92:3333/relay/gdy-2904-3951.m3u8
 #EXTINF:-1 group-title="其他",新片放映厅
 http://k.061899.xyz/k.php?id=xpdy
 #EXTINF:-1 group-title="其他",新片放映厅
-http://101.43.82.170:1234/619495952
+http://114.228.118.193:7788/619495952
 #EXTINF:-1 group-title="其他",新疆10套
 http://A/ku9/js/web.js?id=https://www.xjtvs.com.cn/column/tv/434?channelId=21
 #EXTINF:-1 group-title="其他",新疆11套
@@ -2528,7 +2530,7 @@ https://gh-proxy.org/https://github.com/bang359/dsj/raw/main/dashang.mp4
 #EXTINF:-1 group-title="其他",最强综艺趴
 http://k.061899.xyz/k.php?id=zqzyp
 #EXTINF:-1 group-title="其他",最强综艺趴
-http://101.43.82.170:1234/629942228
+http://114.228.118.193:7788/629942228
 #EXTINF:-1 group-title="其他",朔州
 http://A/ku9/js/web.js?id=https://apphhplushttp://A/ku9/js/web.js?id=https.sxrtv.com//a/b/a/live_wap_811845.html
 #EXTINF:-1 group-title="其他",杞县新闻综合
@@ -2584,7 +2586,7 @@ http://A/ku9/js/web.js?id=https://www.wzrtv.cn/dist/index.html%23/live
 #EXTINF:-1 group-title="其他",梧州新闻综合
 http://A/ku9/js/web.js?id=https://www.wzrtv.cn/dist/index.html%23/liveTvDetail/22/%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 #EXTINF:-1 group-title="其他",梨园频道
-http://101.43.82.170:1234/961930369
+http://114.228.118.193:7788/961930369
 #EXTINF:-1 group-title="其他",梨园频道
 http://mg.cttv.vip/961930369
 #EXTINF:-1 group-title="其他",楚天交通广播
@@ -2610,7 +2612,7 @@ http://A/ku9/js/web.js?id=https://www.cditv.cn/show/4844-587.html
 #EXTINF:-1 group-title="其他",武搏世界
 http://gslbserv.itv.cmvideo.cn:80/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 group-title="其他",武术世界
-http://101.43.82.170:1234/958475359
+http://114.228.118.193:7788/958475359
 #EXTINF:-1 group-title="其他",武术世界
 http://123.14.89.92:3333/hntv-156
 #EXTINF:-1 group-title="其他",武术世界
@@ -2662,7 +2664,7 @@ http://A/ku9/js/web.js?id=https://live.jstv.com/?channelId=665
 #EXTINF:-1 group-title="其他",江苏卫视4K
 http://A/ku9/js/web.js?id=https://live.jstv.com?channelId=676
 #EXTINF:-1 group-title="其他",江苏国际
-http://101.43.82.170:1234/626064674
+http://114.228.118.193:7788/626064674
 #EXTINF:-1 group-title="其他",江苏国际
 http://106.52.119.159:1234/626064674
 #EXTINF:-1 group-title="其他",江苏国际
@@ -2674,7 +2676,7 @@ http://221.226.51.220:50081/newlive/live/hls/19/live.m3u8
 #EXTINF:-1 group-title="其他",江苏城市
 http://A/ku9/js/web.js?id=https://live.jstv.com/?channelId=669
 #EXTINF:-1 group-title="其他",江苏城市频道
-http://101.43.82.170:1234/626064714
+http://114.228.118.193:7788/626064714
 #EXTINF:-1 group-title="其他",江苏影视
 http://106.52.119.159:1234/626064697
 #EXTINF:-1 group-title="其他",江苏影视
@@ -2682,9 +2684,9 @@ http://221.226.51.220:50081/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 group-title="其他",江苏影视
 http://A/ku9/js/web.js?id=https://live.jstv.com/?channelId=664
 #EXTINF:-1 group-title="其他",江苏影视频道
-http://101.43.82.170:1234/626064697
+http://114.228.118.193:7788/626064697
 #EXTINF:-1 group-title="其他",江苏教育
-http://101.43.82.170:1234/628008321
+http://114.228.118.193:7788/628008321
 #EXTINF:-1 group-title="其他",江苏教育
 http://106.52.119.159:1234/628008321
 #EXTINF:-1 group-title="其他",江苏教育
@@ -2700,7 +2702,7 @@ http://221.226.51.220:50081/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 group-title="其他",江苏综艺
 http://A/ku9/js/web.js?id=https://live.jstv.com/?channelId=663
 #EXTINF:-1 group-title="其他",江苏综艺频道
-http://101.43.82.170:1234/626065193
+http://114.228.118.193:7788/626065193
 #EXTINF:-1 group-title="其他",江苏音乐
 https://lhttp.qingting.fm/live/4936/64k.mp3
 #EXTINF:-1 group-title="其他",江西公共农业
@@ -2726,7 +2728,7 @@ http://A/ku9/js/web.js?id=http://www.jmtv.cn/live/jm_live_h5.shtml?pid=1
 #EXTINF:-1 group-title="其他",江门综合
 http://A/ku9/js/web.js?id=http://www.jmtv.cn/live/jm_live_h5.shtml?pid=2
 #EXTINF:-1 group-title="其他",江阴新闻综合
-http://101.43.82.170:1234/955227979
+http://114.228.118.193:7788/955227979
 #EXTINF:-1 group-title="其他",池州综合
 http://A/ku9/js/web.js?id=https://www.chiznews.com/radio-television
 #EXTINF:-1 group-title="其他",沧州公共
@@ -2882,7 +2884,7 @@ http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
 #EXTINF:-1 group-title="其他",泰州-3
 http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
 #EXTINF:-1 group-title="其他",泰州新闻综合
-http://101.43.82.170:1234/639731818
+http://114.228.118.193:7788/639731818
 #EXTINF:-1 group-title="其他",泰语剧场
 http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_949_1080P_t10/c58_fast_949_1080P_t10.m3u8?d
 #EXTINF:-1 group-title="其他",泸州新闻综合
@@ -2980,15 +2982,15 @@ http://A/ku9/js/web.js?id=https://www.hnntv.cn/live.html?playType=livePlay%26cha
 #EXTINF:-1 group-title="其他",海南少儿
 http://47.108.20.161:8866/hainan/hainan.php?id=sepd
 #EXTINF:-1 group-title="其他",海南广播电视总台少儿频道
-http://101.43.82.170:1234/962067523
+http://114.228.118.193:7788/962067523
 #EXTINF:-1 group-title="其他",海南广播电视总台文旅频道
-http://101.43.82.170:1234/962067526
+http://114.228.118.193:7788/962067526
 #EXTINF:-1 group-title="其他",海南广播电视总台新闻频道
-http://101.43.82.170:1234/962067517
+http://114.228.118.193:7788/962067517
 #EXTINF:-1 group-title="其他",海南广播电视总台社会与法频道
-http://101.43.82.170:1234/962045223
+http://114.228.118.193:7788/962045223
 #EXTINF:-1 group-title="其他",海南广播电视总台自贸频道
-http://101.43.82.170:1234/962045226
+http://114.228.118.193:7788/962045226
 #EXTINF:-1 group-title="其他",海南文旅
 http://123.207.224.130:123/hainan/hainan.php?id=wlpd
 #EXTINF:-1 group-title="其他",海南文旅
@@ -3034,7 +3036,7 @@ http://mingjd.cn:7077/udp/239.3.1.102:8001
 #EXTINF:-1 group-title="其他",淮北新闻综合
 http://A/ku9/js/web.js?id=https://www.hbnews.net/tv/
 #EXTINF:-1 group-title="其他",淮安新闻综合
-http://101.43.82.170:1234/639731826
+http://114.228.118.193:7788/639731826
 #EXTINF:-1 group-title="其他",深圳国际
 http://A/ku9/js/web.js?id=https://www.sztv.com.cn/pindao/index.html?id=7944
 #EXTINF:-1 group-title="其他",深圳宜和购物
@@ -3168,7 +3170,7 @@ https://lhttp.qingting.fm/live/4979/64k.mp3
 #EXTINF:-1 group-title="其他",湘潭
 http://A/ku9/js/web.js?id=http://www.hnxttv.com/live/ivideo/index.html
 #EXTINF:-1 group-title="其他",溧水新闻综合
-http://101.43.82.170:1234/639737327
+http://114.228.118.193:7788/639737327
 #EXTINF:-1 group-title="其他",滁州公共
 http://A/ku9/js/web.js?id=http://www.cztv.cc/Live/index?liveid=2
 #EXTINF:-1 group-title="其他",滁州新闻综合
@@ -3212,27 +3214,27 @@ http://A/ku9/js/web.js?id=http://www.jzrt.com/list-zhpd.html
 #EXTINF:-1 group-title="其他",焦作综合
 http://A/ku9/js/web.js?id=https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=a15a6b9e3e1f435584f903641e85a975
 #EXTINF:-1 group-title="其他",熊猫频道01
-http://101.43.82.170:1234/609158151
+http://114.228.118.193:7788/609158151
 #EXTINF:-1 group-title="其他",熊猫频道1
-http://101.43.82.170:1234/608933610
+http://114.228.118.193:7788/608933610
 #EXTINF:-1 group-title="其他",熊猫频道10
-http://101.43.82.170:1234/609169285
+http://114.228.118.193:7788/609169285
 #EXTINF:-1 group-title="其他",熊猫频道2
-http://101.43.82.170:1234/608933640
+http://114.228.118.193:7788/608933640
 #EXTINF:-1 group-title="其他",熊猫频道3
-http://101.43.82.170:1234/608934619
+http://114.228.118.193:7788/608934619
 #EXTINF:-1 group-title="其他",熊猫频道4
-http://101.43.82.170:1234/608934721
+http://114.228.118.193:7788/608934721
 #EXTINF:-1 group-title="其他",熊猫频道5
-http://101.43.82.170:1234/608935104
+http://114.228.118.193:7788/608935104
 #EXTINF:-1 group-title="其他",熊猫频道6
-http://101.43.82.170:1234/608935797
+http://114.228.118.193:7788/608935797
 #EXTINF:-1 group-title="其他",熊猫频道7
-http://101.43.82.170:1234/609169286
+http://114.228.118.193:7788/609169286
 #EXTINF:-1 group-title="其他",熊猫频道8
-http://101.43.82.170:1234/609169287
+http://114.228.118.193:7788/609169287
 #EXTINF:-1 group-title="其他",熊猫频道9
-http://101.43.82.170:1234/609169226
+http://114.228.118.193:7788/609169226
 #EXTINF:-1 group-title="其他",爱上海
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="其他",爱奇艺
@@ -3254,7 +3256,7 @@ http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="其他",玫瑰轮播台
 http://k.061899.xyz/k.php?id=mglbt
 #EXTINF:-1 group-title="其他",环球旅游
-http://101.43.82.170:1234/958475356
+http://114.228.118.193:7788/958475356
 #EXTINF:-1 group-title="其他",环球电视
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="其他",环球直播
@@ -3284,7 +3286,7 @@ http://A/ku9/js/web.js?id=https://www.0515yc.cn/folder147/folder148/folder156/
 #EXTINF:-1 group-title="其他",盐城城市公共
 https://live1yc.0515yc.cn/ycet02/sd/live.m3u8
 #EXTINF:-1 group-title="其他",盐城新闻综合
-http://101.43.82.170:1234/639731825
+http://114.228.118.193:7788/639731825
 #EXTINF:-1 group-title="其他",盐城新闻综合
 https://live1yc.0515yc.cn/ycyt01/sd/live.m3u8
 #EXTINF:-1 group-title="其他",盐城法制生活
@@ -3390,7 +3392,7 @@ http://A/ku9/js/web.js?id=https://www.shaoxing.com.cn/app/tv/74
 #EXTINF:-1 group-title="其他",经典动画大集合
 http://k.061899.xyz/k.php?id=dhdjh
 #EXTINF:-1 group-title="其他",经典动画大集合
-http://101.43.82.170:1234/629942219
+http://114.228.118.193:7788/629942219
 #EXTINF:-1 group-title="其他",经典动画大集合
 http://114.240.228.159:7788/629942219
 #EXTINF:-1 group-title="其他",经典深圳旁边电影
@@ -3402,7 +3404,7 @@ https://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 group-title="其他",经典香港电影
 http://k.061899.xyz/k.php?id=xgdy
 #EXTINF:-1 group-title="其他",经典香港电影
-http://101.43.82.170:1234/625703337
+http://114.228.118.193:7788/625703337
 #EXTINF:-1 group-title="其他",经典鬼片3000部
 https://live.ottiptv.cc/yy/29460894
 #EXTINF:-1 group-title="其他",经济之声
@@ -3556,7 +3558,7 @@ http://120.237.39.10:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="其他",谍战剧场
 http://120.238.84.45:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",财富天下
-http://101.43.82.170:1234/956923159
+http://114.228.118.193:7788/956923159
 #EXTINF:-1 group-title="其他",贵州公共
 http://123.207.224.130:123/guizhou/guizhou.php?id=gzgg
 #EXTINF:-1 group-title="其他",贵州公共
@@ -3602,7 +3604,7 @@ http://A/ku9/js/web.js?id=https://www.zyrb.com.cn/%23/bD074b747F
 #EXTINF:-1 group-title="其他",赛事最经典
 http://k.061899.xyz/k.php?id=sszjd
 #EXTINF:-1 group-title="其他",赛事最经典
-http://101.43.82.170:1234/646596895
+http://114.228.118.193:7788/646596895
 #EXTINF:-1 group-title="其他",赛事最经典
 http://mg.cttv.vip/646596895
 #EXTINF:-1 group-title="其他",赣州教育
@@ -3648,7 +3650,7 @@ http://120.76.248.139/live/bfgd/4200000076.m3u8
 #EXTINF:-1 group-title="其他",运城1
 http://A/ku9/js/web.js?id=https://apphhplushttp://A/ku9/js/web.js?id=https.sxrtv.com//a/b/a/live_wap_811843.html
 #EXTINF:-1 group-title="其他",连云港新闻综合
-http://101.43.82.170:1234/639731715
+http://114.228.118.193:7788/639731715
 #EXTINF:-1 group-title="其他",通许综合频道
 http://A/ku9/js/web.js?id=https://www.kftv.net.cn/info/939
 #EXTINF:-1 group-title="其他",通辽
@@ -3840,7 +3842,7 @@ http://52zb.work/nmg.php?id=xlgl1
 #EXTINF:-1 group-title="其他",锦江电视
 http://A/ku9/js/web.js?id=https://www.cditv.cn/show/4844-590.html
 #EXTINF:-1 group-title="其他",镇江新闻综合
-http://101.43.82.170:1234/639731783
+http://114.228.118.193:7788/639731783
 #EXTINF:-1 group-title="其他",镇江新闻综合
 http://tv.q1.cm/stream/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
 #EXTINF:-1 group-title="其他",镇江新闻综合
@@ -3898,7 +3900,7 @@ http://52zb.work/nmg.php?id=als1
 #EXTINF:-1 group-title="其他",陕西体育休闲
 http://A/ku9/js/web.js?id=http://live.snrtv.com/7
 #EXTINF:-1 group-title="其他",陕西体育休闲频道
-http://101.43.82.170:1234/956909356
+http://114.228.118.193:7788/956909356
 #EXTINF:-1 group-title="其他",陕西体育休闲频道
 http://mg.cttv.vip/956909356
 #EXTINF:-1 group-title="其他",陕西农林
@@ -3906,21 +3908,21 @@ http://A/ku9/js/web.js?id=http://live.snrtv.com/nl
 #EXTINF:-1 group-title="其他",陕西新闻资讯
 http://A/ku9/js/web.js?id=http://live.snrtv.com/1
 #EXTINF:-1 group-title="其他",陕西新闻资讯频道
-http://101.43.82.170:1234/956909289
+http://114.228.118.193:7788/956909289
 #EXTINF:-1 group-title="其他",陕西秦腔
 http://A/ku9/js/web.js?id=http://live.snrtv.com/5
 #EXTINF:-1 group-title="其他",陕西秦腔频道
-http://101.43.82.170:1234/956909303
+http://114.228.118.193:7788/956909303
 #EXTINF:-1 group-title="其他",陕西移动
 http://A/ku9/js/web.js?id=http://www.sxtvs.com/sxtvs_ydpd/index.html
 #EXTINF:-1 group-title="其他",陕西都市青春
 http://A/ku9/js/web.js?id=http://live.snrtv.com/2
 #EXTINF:-1 group-title="其他",陕西都市青春频道
-http://101.43.82.170:1234/956909358
+http://114.228.118.193:7788/956909358
 #EXTINF:-1 group-title="其他",陕西银龄
 http://A/ku9/js/web.js?id=http://live.snrtv.com/3
 #EXTINF:-1 group-title="其他",陕西银龄频道
-http://101.43.82.170:1234/956909362
+http://114.228.118.193:7788/956909362
 #EXTINF:-1 group-title="其他",陕西音乐
 https://lhttp.qingting.fm/live/4873/64k.mp3
 #EXTINF:-1 group-title="其他",陕西音乐广播 FM98.8[0*0]

@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-26T04:12:39.545920+00:00",
+  "time": "2026-11-27T04:20:40.502339+00:00",
   "status": "published",
   "policy": "dsj-all-other-sources-channel-list-five-categories",
   "sources": [
@@ -33,18 +33,18 @@
     {
       "source": "Best-fan IPTV / cn_all_status.m3u8",
       "scope": "channel-list",
-      "entries": 447,
-      "added": 334,
-      "duplicates": 109,
+      "entries": 411,
+      "added": 306,
+      "duplicates": 103,
       "invalid": 0,
-      "filtered": 4
+      "filtered": 2
     },
     {
       "source": "bang359/dsj / dsj.txt",
       "scope": "all",
       "entries": 653,
-      "added": 513,
-      "duplicates": 140,
+      "added": 512,
+      "duplicates": 141,
       "invalid": 1,
       "filtered": 0
     },
@@ -52,8 +52,8 @@
       "source": "bang359/dsj / dsjcs.txt",
       "scope": "all",
       "entries": 1260,
-      "added": 1173,
-      "duplicates": 87,
+      "added": 1175,
+      "duplicates": 85,
       "invalid": 3,
       "filtered": 0
     },
@@ -61,8 +61,8 @@
       "source": "bang359/dsj / dsjcs1.txt",
       "scope": "all",
       "entries": 1315,
-      "added": 95,
-      "duplicates": 1220,
+      "added": 94,
+      "duplicates": 1221,
       "invalid": 3,
       "filtered": 0
     },
@@ -88,23 +88,23 @@
       "source": "bang359/dsj / yc.txt",
       "scope": "all",
       "entries": 643,
-      "added": 221,
-      "duplicates": 422,
+      "added": 222,
+      "duplicates": 421,
       "invalid": 2,
       "filtered": 0
     }
   ],
   "total_channels": 1562,
   "new_channels": 1427,
-  "total_lines": 5214,
+  "total_lines": 5187,
   "categories": {
     "cctv": {
       "channels": 35,
-      "lines": 1047
+      "lines": 1057
     },
     "local": {
       "channels": 68,
-      "lines": 1660
+      "lines": 1622
     },
     "hmt": {
       "channels": 17,
@@ -116,7 +116,7 @@
     },
     "other": {
       "channels": 1327,
-      "lines": 2099
+      "lines": 2100
     }
   }
 }
